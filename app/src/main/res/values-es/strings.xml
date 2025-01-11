@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Traductor de perros</string>
+    <string name="label_text_intro">COMUNICARSE CON\nTU PERRO</string>
+    <!-- TODO: eliminar o cambiar este texto de marcador de posición -->
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="training_food_title">Comida</string>
+    <string name="training_food_description">Los perros son omnívoros y necesitan una amplia gama de nutrientes para mantener una salud óptima. Esto incluye el equilibrio correcto de proteínas, grasas y aceites, carbohidratos</string>
+    <string name="training_praise_title">Alabanza</string>
+    <string name="training_praise_description">Probablemente puedas pensar en cinco cosas que desearías que tu perro dejara de hacer, como tirar la basura o agarrar los pantalones del pijama de tu hijo todas las mañanas.</string>
+    <string name="training_bitting_title">Morder</string>
+    <string name="training_bitting_description">La mayoría de las veces, los perros muerden a las personas cuando se sienten amenazadas de alguna manera. Es un instinto natural que todavía está presente en los perros domesticados. Por eso es importante para todos los que interactúan con un perro </string>
+    <string name="training_obdience_title">Obdiencia</string>
+    <string name="training_obdience_description">Incluso antes de traer a casa un perro de un criador o incluso del refugio de animales, es imperativo que decida y establezca algunas reglas básicas que deben observar todos los demás en el hogar cuando el perro está ya ahí </string>
+    <string name="training_barking_title">Ladridos</string>
+    <string name="training_barking_description">Los perros ladran por muchas razones diferentes. Un perro puede ladrar para expresar cómo se siente, por ejemplo, cuando está emocionado, frustrado, aburrido o asustado. Si un perro se siente amenazado, puede ladrar para decirle a alguien que se mantenga alejado o que se vaya.</string>    <string name="activity_training_food_1_title">Cómo servir la comida</string>
+    <string name="activity_training_food_1_description">Los perros son omnívoros y necesitan una amplia gama de nutrientes para mantener una salud óptima. Esto incluye el equilibrio correcto de proteínas, grasas y aceites, carbohidratos, minerales y vitaminas. En el Reino Unido, los alimentos para mascotas se rigen por más de 50 leyes, y un alimento comercial completo para mascotas debe cumplir con cantidades mínimas de nutrientes específicos para cumplir con estos. Esto significa que un alimento para mascotas completo y de alta calidad contendrá el equilibrio adecuado de todo lo que su mascota necesita de su dieta.</string>
+    <string name="activity_training_food_2_title">Encuentra un lugar ideal</string>
+    <string name="activity_training_food_2_description">Alimenta a tu perro en un lugar tranquilo y alejado del bullicio de la casa. Siempre sirva la comida para perros en un recipiente limpio y colóquelos en una superficie fácil de limpiar, como un piso de baldosas. Si encuentra que el comedero de su perro se desliza por el piso, use un comedero antideslizante o una alfombrilla de goma.
+Los perros que devoran su comida pueden beneficiarse de los tazones especiales para perros que evitan que se traguen los alimentos y que fomentan una alimentación más lenta, mientras que los perros mayores, o los que comen desordenadamente, pueden preferir un comedero para perros elevado.
+Si tiene otros perros en el hogar, aliméntelos al mismo tiempo, pero separados, para evitar el acoso y las peleas.</string>
+    <string name="activity_training_food_3_title">Servir y almacenar alimentos</string>
+    <string name="activity_training_food_3_description">Cuando se trata de la alimentación del perro, trate de servir comida húmeda (latas/tinas/bolsas) a temperatura ambiente, ya que huele más atractivo y es más fácil de digerir. Esto significa sacarlo del refrigerador aproximadamente una hora antes de alimentarlo. Está bien usar el microondas por un corto tiempo para calentarlo, pero asegúrese de que la comida nunca esté caliente.
+La comida húmeda se echa a perder rápidamente, así que evita dejarla fuera. Una vez abierto, no guarde los alimentos húmedos por más de 24 horas, incluso en el refrigerador.
+La comida seca, por otro lado, se puede dejar afuera durante el día sin que se eche a perder. Guárdelo en un ambiente limpio y seco, manténgalo en un recipiente hermético o en una caja con cierre, a sus aromas y evite que se vuelva rancio.
+A la mayoría de los perros les gusta masticar la comida seca, pero si tu mascota lo prefiere con un poco de agua, o si hay una razón médica por la que debes evitar la comida dura, remoja la comida en agua hasta 30 minutos antes de servirla. Las croquetas secas ayudan a eliminar la placa, por lo que, si agrega agua a los alimentos secos, es posible que también desee complementar su comida con un tratamiento dental regular. Recuerda que el cepillado regular es la mejor manera de prevenir las enfermedades dentales de los perros.</string>
+    <string name="activity_training_food_4_title">Alimentación y ejercicio</string>
+    <string name="activity_training_food_4_description">Nunca ejercites a tu perro una hora antes o una hora después de alimentarlo. Los perros de razas grandes y gigantes pueden ser susceptibles a la hinchazón del estómago y la torsión del intestino (una condición llamada dilatación gástrica y vólvulo), que es una emergencia médica. Los síntomas incluyen una barriga hinchada, arcadas y que tu perro actúe como si estuviera muy incómodo. Póngase en contacto con su veterinario inmediatamente si está preocupado por su perro.</string>
+    <string name="activity_training_praise_1_title">El poder de los elogios: fomentar el buen comportamiento en los perros</string>
+    <string name="activity_training_praise_1_description">Probablemente puedas pensar en cinco cosas que desearías que tu perro dejara de hacer, como tirar la basura o agarrar los pantalones del pijama de tu hijo todas las mañanas. O tal vez puedas pensar en cinco cosas que desearías que tu perro hiciera mejor, como venir cuando lo llamas o caminar con la correa. Es posible que le diga a su perro "basta" o "no" con frecuencia, y es muy probable que se sienta frustrado por el comportamiento de su perro. Pero, ¿alguna vez te detienes a darle crédito a tu perro por las millones de cosas que hace bien todos los días?
+Piénsalo. Los perros llegan a nuestras vidas sin conocer nuestro idioma ni nuestras costumbres. Tienen que adaptarse a nuestra forma de vida y frenar muchos de los comportamientos que les resultan naturales, como usar los dientes y la voz. Mantenemos a nuestros perros en un alto estándar de comportamiento, ya sea que los ayudemos a través de esta transición cultural con el entrenamiento, o que los dejemos que lo averigüen por sí mismos. Por supuesto, los perros son excelentes observadores y, en su mayor parte, logran integrarse a la perfección en nuestras vidas, ya sea que los guiemos o no.
+Lamentablemente, corregimos rápidamente a nuestros perros cuando cometen errores, lo que significa que a menudo no reconocemos las muchas decisiones correctas que toman mientras navegan por nuestro mundo. Esto deja un vacío de alabanza. Los perros reciben nuestra atención cuando hacen algo incorrecto, pero su genialidad diaria no se reconoce. Pero al hacer un pequeño cambio en su comportamiento, reconociendo esos muchos momentos fugaces de bien, descubrirá que es más probable que su perro los repita, y su relación comenzará a transformarse.</string>
+    <string name="activity_training_praise_2_title">Reconocer a tu perro por su buen comportamiento</string>
+    <string name="activity_training_praise_2_description">Es cierto para todos los seres, desde humanos hasta animales, que el comportamiento que se recompensa se repetirá. Las recompensas de comida son un refuerzo casi universal en el mundo de los perros, por lo que son una excelente manera de obtener y mantener comportamientos. Dicho esto, no tienes que convertirte en un dispensador de golosinas sin fondo para que tu perro repita los comportamientos cotidianos que aprecias. Simplemente reconocer a su perro con elogios verbales por las buenas decisiones es una forma poderosa de alentar a su perro a seguir con el buen trabajo.
+Aprovechar sus habilidades diarias de elogio requiere que se convierta en un estudiante del comportamiento de su perro, ya que algunas de las mejores cosas para elogiar pueden ser fugaces. Una vez que realinee su perspectiva y comience a observar un comportamiento digno de elogio, comenzará a verlo constantemente. (Nuestros perros realmente son mucho mejores de lo que les damos crédito).
+Por ejemplo, uno de los requisitos más básicos del estado de "buen perro" es ir al baño afuera, entonces, ¿por qué no elogiar a su perro por hacerlo bien todos los días? Decirle a tu perro "bien hecho" cuando hace sus necesidades es una manera simple de hacerle saber que aprecias sus habilidades de entrenamiento doméstico. Ahora, considere el resto de su día con su perro, ¿puede pensar en otras pequeñas formas en que lo hace bien? Tal vez se siente mientras le preparas la comida, o cuando le pones la correa, o antes de que le lances una pelota. Esos son todos comportamientos dignos de elogio.
+Reconocer a su perro por su buen comportamiento es solo una parte de la serie de elogios. Reconocer a su perro por tomar la decisión correcta es una forma aún más poderosa de poner en práctica los elogios. Recuerde, su perro tiene agencia personal, y sus días están llenos de miles de cálculos de segundos sobre qué hacer a continuación. Por ejemplo, cuando su vecino arrastra su ruidoso bote de basura por la entrada de su casa, su perro tiene que determinar si debe ladrar. O, si su gato rescatado decide hacer una aparición sorpresa en la sala de estar, su perro tiene que decidir si lo persigue. Ignorar al recolector de basura y renunciar a perseguir a los gatos son decisiones que sin duda querrás que tu perro repita, así que elógialo de todo corazón cuando tu perro opte por hacer lo correcto.
+Sí, elogiar la ausencia de un “mal” comportamiento, como ladrar, perseguir, saltar o intimidar, puede ser tan importante como elogiar a su perro por realizar un buen comportamiento, como sentarse, calmarse o quedarse. El simple hecho de usar su voz para reforzar la elección inteligente de su perro le ayudará a asegurarse de que lo haga de nuevo la próxima vez que se encuentre en la misma situación.
+Cómo elogias es importante. No tienes que exagerar cuando elogias a tu perro, especialmente porque terminarás elogiándolo con frecuencia durante el día. Un simple “buen trabajo” o “¡buena decisión!” y una caricia y una sonrisa ayudarán a tu perro a comprender que aprecias lo que ha hecho. Por supuesto, si su perro hace algo increíble, como regresar a usted en lugar de perseguir a un conejo en su jardín, amplíe los elogios para que sepa que ha hecho algo extraordinario.
+Aumentar la cantidad de reconocimiento positivo que le das a tu perro a diario transformará tu relación. La retroalimentación frecuente ayuda a su perro a hacer la vida bien con más frecuencia y lo alentará a continuar tratando de hacer lo correcto. Las golosinas siempre serán un poderoso refuerzo principal para la mayoría de los perros, pero el poder de la retroalimentación positiva de un ser humano amado está en segundo lugar.</string>
+    <string name="activity_training_bitting_1_title">¿Por qué muerden los perros?</string>
+    <string name="activity_training_bitting_1_description">La mayoría de las veces, los perros muerden a las personas cuando se sienten amenazadas de alguna manera. Es un instinto natural que todavía está presente en los perros domesticados. Por eso es importante que todos los que interactúan con un perro entiendan qué puede provocar este comportamiento agresivo.
+Un perro puede morder para defenderse a sí mismo, a su territorio oa un miembro de su manada. Una madre perra también protege ferozmente a sus cachorros.
+Sorprender a un perro al despertarlo o empujarlo repentinamente desde atrás puede provocar que muerda.
+Huir de un perro, incluso durante el juego, también puede provocar un mordisco. El perro puede pensar que es parte de la diversión, o que huir podría desencadenar un comportamiento de pastoreo o una persecución depredadora en algunas razas.
+Un perro que está en una situación de ira puede morder a cualquiera que se le acerque. Tal situación puede ser algo tan grave como ser abusado o abandonado al costado del camino, o puede ser algo que perciba como ordinario, como un ruido fuerte.
+Las lesiones y las enfermedades también son motivos comunes. Si un perro no se siente bien o tiene dolor, es posible que ni siquiera quiera que sus personas favoritas se le acerquen o lo toquen.</string>
+    <string name="activity_training_bitting_2_title">Cómo detener las mordeduras de perro</string>
+    <string name="activity_training_bitting_2_description">Como propietario de un perro, debe asumir la responsabilidad de entrenar a su perro y mantenerlo bajo control en todo momento. Usted es responsable del comportamiento de su perro y es la primera línea de defensa para prevenir las mordeduras de perros. Es importante que haga todo lo posible para mantener a los demás a salvo y evitar que su perro muerda:
+Haga que su perro reciba un entrenamiento básico como mínimo y continúe con el programa de entrenamiento de su perro a lo largo de su vida para reforzar las lecciones que le ha enseñado.
+Socializa a tu perro. Permita que su perro conozca e interactúe con diferentes tipos de personas, incluidos niños, personas discapacitadas y personas mayores en circunstancias tranquilas y positivas.
+Exponga a su perro regularmente a una variedad de situaciones, como otros perros, ruidos fuertes, máquinas grandes, bicicletas o cualquier otra cosa que pueda generar miedo. Comience este entrenamiento con su perro a la edad más joven posible y mantenga las experiencias positivas.
+Preste atención a su perro y sepa cuándo las cosas pueden conducir a la agresión. Si no puede controlar la situación o el comportamiento de su perro, es posible que deba retirar a su perro antes de que las cosas se salgan de control.
+No castigue a su perro con castigos físicos, violentos o agresivos. Opte por el refuerzo positivo (elogios y golosinas) antes de recurrir al uso de aversivos, como collares eléctricos y ruidos fuertes, para disciplinar el comportamiento indeseable. Recompensar constantemente a su perro por un comportamiento deseable es mucho más efectivo porque los perros tienen como objetivo complacer a su gente.
+Mantenga siempre a su perro en una fuga o en un área cercada. Conozca bien a su perro antes de dejarlo libre en las áreas permitidas. Mantenga a su perro a la vista en todo momento.
+Si sospecha o sabe que su perro tiene tendencias agresivas o de enojo, siempre advierta a los demás. No permita que su perro se acerque a personas u otros animales a menos que la situación esté estrictamente controlada. Use un bozal si es necesario.
+Mantenga las vacunas de su perro al día, especialmente la vacuna contra la rabia, y visite la rutina de su veterinario para chequeos de bienestar.</string>
+    <string name="activity_training_bitting_3_title">Cómo interactuar de forma segura con un perro</string>
+    <string name="activity_training_bitting_3_description">Los perros son lindos y, a menudo, amigables, por lo que es fácil emocionarse cuando ves uno. Sin embargo, un perro puede volverse rápidamente contra alguien que no conoce.
+Incluso si no tienes un perro propio, es importante que tú y otras personas de tu entorno, incluidos los niños, sepan cómo interactuar con los perros y cómo y cuándo acercarse a uno.
+Nunca intente acercarse o tocar a un perro desconocido sin antes pedir permiso al dueño. Si el dueño del perro no está presente, no se acerque al perro.
+Nunca te acerques a un perro que esté comiendo, durmiendo o cuidando cachorros. Los perros en estas situaciones son más propensos a ser protectores y se asustan fácilmente.
+No se acerque, toque ni intente mover a un perro herido. En su lugar, comuníquese con un profesional veterinario o control de animales para obtener ayuda.
+Nunca deje a un niño pequeño o un bebé solo con ningún perro por ningún motivo.
+Cuando te encuentres con un perro desconocido, permite que el perro se acerque a ti. Agáchese o gire hacia un lado. Deja que te huela la mano antes de acariciarlo.
+No pongas tu cara cerca de un perro desconocido; esto incluye "abrazos y besos".
+Si está acorralado por un perro, quédese quieto y evite el contacto visual. Nunca corras ni grites. Cuando el perro deje de prestarte atención, retrocede lentamente.
+Si un perro lo atropella, póngase de costado en posición fetal y cúbrase la cabeza y la cara. Permanece muy quieto y tranquilo.</string>
+    <string name="activity_training_bitting_4_title">Si tu perro muerde a alguien</string>
+    <string name="activity_training_bitting_4_description">Si tu perro muerde a una persona, es importante actuar rápidamente. Primero, confinar al perro y luego asistir inmediatamente a la víctima. La víctima debe lavarse bien la picadura con jabón y agua tibia, si es posible, y luego buscar atención médica inmediata.</string>
+    <string name="activity_training_obdience_1_title">Establecer reglas de la casa que todos en el hogar puedan cumplir</string>
+    <string name="activity_training_obdience_1_description">Incluso antes de traer a casa un perro de un criador o incluso del refugio de animales, es imperativo que decida y establezca algunas reglas básicas que deben observar todos los demás en el hogar cuando el perro está ya ahí La idea es asegurarse de que la mascota no reciba órdenes o "reglas" contradictorias. Por ejemplo, si piensas que tu perro no debe subirse al sofá y otro miembro de la familia piensa que está bien, entonces esto confundirá al perro en cuanto a quién de ustedes obedecerá. Naturalmente, obedecerá a la persona que le dé tal indulgencia.
+     Dicho esto, reúna a todos y trate de discutir algunas de las cosas en las que todos tendrán que ser coherentes una vez que el perro ya esté en casa. Estos pueden incluir el área donde el perro dormirá, comerá y defecará y si se le permitirá ingresar al dormitorio o no. También es posible que desee establecer reglas básicas sobre las sobras de la mesa, así como los refrigerios, ya que la cara triste de un perro realmente puede romper el corazón de los niños. Nuevamente, si desea que su perro sea más obediente, debe comenzar con reglas consistentes en su hogar.</string>
+    <string name="activity_training_obdience_2_title">Elige el nombre de tu perrito y quédate con él</string>
+    <string name="activity_training_obdience_2_description">Además de la coherencia en las reglas de la casa, también deberá ser coherente en su nombre. Por ejemplo, si ha decidido llamar a su perro "Spot", todos los demás miembros de la familia tendrán que llamarlo así. No debe haber silbidos ni el uso de ningún otro sonido para llamarlo. La idea es que el perro entienda que el sonido “Spot” se refiere a él y que no se le puede llamar con otro nombre. Imagínese si alguien más le silba a su perro, si está debidamente entrenado para responder solo a la llamada o al sonido de su nombre, entonces ignorará el silbato. Solo recuerda darle a tu perro un refuerzo positivo cada vez que responda a la llamada de su nombre.</string>
+    <string name="activity_training_obdience_3_title">Entrena a tu perro en casa</string>
+    <string name="activity_training_obdience_3_description">Todos los cachorros deben someterse a un entrenamiento doméstico. Si trajo un perro adulto a su casa, también tendrá que entrenarlo; aunque requeriría más paciencia y mayor perseverancia por tu parte. Lo importante es que los cachorros y los perros aprendan cuándo y dónde comer, dormir, beber, orinar y defecar. Nuevamente, la perseverancia es la clave y los esfuerzos constantes de todos en su hogar definitivamente pueden ayudar. Por ejemplo, si ha designado un lugar determinado en la cocina para alimentar a su perro, asegúrese de que todos los demás miembros de la familia alimentarán a este cachorro en la misma área.</string>
+    <string name="activity_training_obdience_4_title">Enséñale a tu perro comandos y trucos básicos</string>
+    <string name="activity_training_obdience_4_description">No necesitas enseñarle a tu perro trucos muy sofisticados. Todo lo que necesita aprender son los conceptos básicos, como los comandos \'siéntate\', \'quieto\', \'ven\' y \'abajo\'. Puede pensar que son muy fáciles, pero que un perro asocie estas señales verbales con un comportamiento aceptable o deseable requiere mucho tiempo y esfuerzo para dominarlas. Si no tienes la paciencia para ver el entrenamiento de tu perro, casi siempre es seguro que fallará en hacer que tu perro se vuelva más obediente. Asegúrese de usar estos comandos básicos incluso cuando no esté entrenando, ya que refuerza fuertemente su comprensión de lo que significa sentarse, bajar, quedarse e incluso venir. En cualquier caso, la repetición de estos comandos en todos los aspectos imaginables de su existencia les ayudará a practicar su voz y sus comandos.</string>
+    <string name="activity_training_obdience_5_title">Aprenda a usar golosinas para refuerzo positivo y como señuelo</string>
+    <string name="activity_training_obdience_5_description">Siempre escuchamos a los conductistas caninos hablar sobre el refuerzo positivo cada vez que entrenamos o enseñamos perros. La razón es bastante simple. Enséñeles a asociar un comportamiento deseable con algo realmente placentero para que estén más que tentados a seguir haciendo el mismo comportamiento una y otra vez. La clave, por lo tanto, está en identificar aquello que les traerá placer. Menos mal que los perros no son tan difíciles de complacer. Jugar con ellos, acurrucarlos e incluso abrazarlos son formas excelentes de demostrarle a tu perro que lo amas. Sin embargo, un truco que nunca falla cuando se trata de refuerzo positivo es darles sus golosinas para perros favoritas. La clave es aprender cuándo darle el premio para que lo asocie con lo que acaba de hacer. Técnicamente, se trata de tiempo.</string>
+    <string name="activity_training_obdience_6_title">Mantenga las sesiones de entrenamiento de obediencia relativamente cortas</string>
+    <string name="activity_training_obdience_6_description">Una de las cosas más difíciles de dominar cuando se trata de entrenamiento de obediencia canina es saber cuándo detener el entrenamiento. Lo que generalmente funciona con una persona definitivamente no significa que deba funcionar con otra. El principal obstáculo para un entrenamiento de obediencia efectivo es la capacidad de atención del perro. Los cachorros, como los niños, tienen un período de atención relativamente corto. Si no tiene en cuenta el tiempo que dedica a capacitarlos, existe una fuerte tendencia a que se sientan aburridos y simplemente pierdan interés en lo que les está enseñando. Si bien los expertos recomiendan mantener las sesiones de entrenamiento dentro de los 10 a 15 minutos, también hay quienes dicen que siga el ejemplo de su perro. Si en caso de que ninguna cantidad de redirección o corrección vaya a sacar a su perro de su desinterés, entonces es posible que desee detenerse allí y continuar al día siguiente. Sin embargo, no olvide dar un refuerzo positivo.</string>
+    <string name="activity_training_barking_1_title">Perros que ladran, ¿qué puedo hacer?</string>
+    <string name="activity_training_barking_1_description">Los perros ladran por muchas razones diferentes. Un perro puede ladrar para expresar cómo se siente, por ejemplo, cuando está emocionado, frustrado, aburrido o asustado. Si un perro se siente amenazado, puede ladrar para decirle a alguien que se mantenga alejado o que se vaya.
+Otras veces, los perros pueden ladrar porque quieren algo en particular, como su juguete favorito. Los perros también pueden ladrar cuando están angustiados, por ejemplo, cuando se quedan solos.
+Ladrar es una forma de comunicación y es un comportamiento canino completamente normal. Sin embargo, si la cantidad de ladridos de tu perro aumenta o se vuelve excesiva, puede ser una señal de que algo no está bien y también puede causar problemas a otras personas.
+Si esto sucede, es para abordar cualquier problema subyacente que podría ser importante para que su perro ladre más.
+Dicho esto, reúna a todos y trate de discutir algunas de las cosas en las que todos tendrán que ser coherentes una vez que el perro ya esté en casa. Estos pueden incluir el área donde el perro dormirá, comerá y defecará y si se le permitirá ingresar al dormitorio o no. También es posible que desee establecer reglas básicas sobre las sobras de la mesa, así como los refrigerios, ya que la cara triste de un perro realmente puede romper el corazón de los niños. Nuevamente, si desea que su perro sea más obediente, debe comenzar con reglas consistentes en su hogar.</string>
+    <string name="activity_training_barking_2_title">Mi perro ha comenzado a ladrar mucho más de lo habitual</string>
+    <string name="activity_training_barking_2_description">Si su perro ladra en exceso o más de lo normal, puede haber un problema de salud subyacente; por ejemplo, cualquier problema con la audición de su perro podría ser la causa de los ladridos. Si sospecha que la audición de su perro está sufriendo, o puede haber algo más mal, hable siempre con su veterinario.</string>
+    <string name="activity_training_barking_3_title">Mi perro ladra cuando lo dejo solo</string>
+    <string name="activity_training_barking_3_description">Si tu perro ladra cuando no estás cerca, es posible que sienta angustia cuando no estás presente. La ansiedad relacionada con la separación puede manifestarse de varias maneras, incluido el ladrido. La buena noticia es que hay cosas que puede hacer para ayudar y determinar cuál puede ser la causa de los ladridos.</string>
+    <string name="activity_training_barking_4_title">Mi perro ladra a los visitantes o transeúntes</string>
+    <string name="activity_training_barking_4_description">Algunos perros ladran a las personas que pasan por tu casa o jardín. Puede intentar evitar que su perro vea a alguien pasar por la casa reduciendo el acceso a ventanas o jardines.
+Es una buena idea tener golosinas sabrosas y juguetes emocionantes a mano, puedes usarlos para distraerte; esto sucedería antes de que comiencen a ladrar o cuando se comporten con una golosina cuando se acerquen a ti.</string>
+    <string name="activity_training_barking_5_title">Cómo reducir los ladridos excesivos</string>
+    <string name="activity_training_barking_5_description">Evite el aburrimiento: los perros son animales inteligentes, activos y sociales, por lo que necesitan mucho ejercicio, cosas que hacer y compañía para mantenerse felices y saludables. Si tu perro está aburrido, es posible que pase más tiempo ladrando.
+Asegúrate de que tu perro tenga suficiente que hacer todos los días para evitar que se aburra.
+Establezca una buena rutina: su perro puede estar ladrando para comunicar que quiere jugar, quiere comida o necesita atención. Asegúrese de tener una rutina diaria para su perro que incluya horas de comida, así como juegos y ejercicio, aproximadamente a la misma hora todos los días. ¡Una buena rutina puede ayudar a su perro a saber qué actividades van a tener lugar y cuándo, y puede ayudar a que deje de ladrar por actividades en otros momentos!
+Los perros ladran por muchas razones diferentes y por eso es necesario descubrir cuál es la causa. Pedir el consejo de un experto puede ayudarlo a comprender qué está causando el comportamiento y también podrá indicarle la dirección correcta para obtener ayuda.
+Para obtener orientación experta, comuníquese con un conductista clínico de animales que podrá elaborar un plan de tratamiento para usted y su perro.</string>
+    <string name="activity_training_barking_6_title">Reportar un perro que ladra</string>
+    <string name="activity_training_barking_6_description">El ladrido ocasional o \'guau\' generalmente no es un problema para los vecinos y otras personas en la comunidad, pero cuando los ladridos se vuelven perjudiciales, a menudo se consideran inaceptables y desagradables para muchas personas. El bienestar del perro también puede verse comprometido, pero es posible que el propietario no se dé cuenta de que su perro ha estado ladrando si no está cerca en ese momento.
+Si le preocupa que un perro ladre en exceso cerca de usted, hay cosas que puede hacer:
+Habla con el dueño. Es posible que no sepan que hay un problema o que estén utilizando algunos de los consejos anteriores para intentar resolver el problema.
+Si hablar con su vecino no ha funcionado o no es una opción, intente ponerse en contacto con su consejo local sobre la queja por ruido. Esto puede ayudar a resolver el problema subyacente o, si hay una queja de asistencia social, se comunicarán con nosotros.
+Póngase en contacto con su ayuntamiento acerca de un perro que ladra.</string>
+    <string name="label_feature">Característica</string>
+    <string name="label_dog_translate">Traducir perro</string>
+    <string name="label_share">Compartir</string>
+    <string name="label_default_device">Dispositivo predeterminado</string>
+    <string name="label_language">Idioma</string>
+    <string name="label_rate">Tarifa</string>
+    <string name="label_privacy_policy">Política de privacidad</string>
+    <string name="sound_item_1">Hola</string>
+    <string name="sound_item_2">Maravilla</string>
+    <string name="sound_item_3">Feliz</string>
+    <string name="sound_item_4">Amor</string>
+    <string name="sound_item_5">Paseo feliz</string>
+    <string name="sound_item_6">Baile</string>
+    <string name="sound_item_7">De acuerdo</string>
+    <string name="sound_item_8">Aplauso</string>
+    <string name="sound_item_9">Hola valla</string>
+    <string name="sound_item_10">Llorar</string>
+    <string name="sound_item_sad">Sad</string>
+    <string name="sound_item_11">Llorar mintiendo</string>
+    <string name="sound_item_12">¡No!</string>
+    <string name="sound_item_13">Sí</string>
+    <string name="sound_item_14">Guau</string>
+    <string name="sound_item_15">Mascota</string>
+    <string name="sound_item_16">Mendigando</string>
+    <string name="sound_item_17">Quiero dormir</string>
+    <string name="sound_item_18">Sí</string>
+    <string name="sound_item_19">Mentira</string>
+    <string name="sound_item_20">Sobresalto</string>
+    <string name="sound_item_21">Rasca</string>
+    <string name="sound_item_22">Tímido</string>
+    <string name="sound_item_23">Agotado</string>
+    <string name="sound_item_24">Asustado</string>
+    <string name="sound_item_25">Enojado</string>
+    <string name="sound_item_26">Súper enojado</string>
+    <string name="label_press_to_record_vocals">Presione para grabar voces</string>
+    <string name="label_translate_result">Traducir resultado</string>
+    <string name="label_close">Cerrar</string>
+    <string name="label_doing">¿Qué estás haciendo?</string>
+    <string name="label_hi">¡Hola, que tengas un buen día!</string>
+    <string name="label_happy">Estoy feliz de que hayas llegado a mi vida</string>
+    <string name="label_love">Siento que me enamoro ahora mismo</string>
+    <string name="label_happy_walk">Estoy feliz, voy a dar un paseo</string>
+    <string name="label_dance">Estoy feliz y quiero bailar</string>
+    <string name="label_hand_clap">Eres tan inteligente, mi valla.</string>
+    <string name="label_hi_fence">Saltaré la cerca</string>
+    <string name="label_sound_super_argry">¡No toques esto!</string>
+    <string name="label_sound_argry">Estoy enojado con mi gato.</string>
+    <string name="label_sound_scare">Por qué estás tan enojado...</string>
+    <string name="label_sound_cry">Me acosté y lloré durante 2 días :(</string>
+    <string name="label_sound_cry_lying">"Mmm... no quiero jugar contigo ahora :( "</string>
+    <string name="label_sound_yes">¡¡Sí!!!</string>
+    <string name="label_sound_wow">Qué sorpresa: 0</string>
+    <string name="label_sound_pet">Te quiero mucho, mi valla</string>
+    <string name="label_sound_begging">¡Tengo hambre, que alguien me de comida!</string>
+    <string name="label_sound_want_sleep">¡Buenas noches!</string>
+    <string name="label_sound_yeah">¡Sí! ¡Me gusta ese sentimiento!</string>
+    <string name="label_sound_lie">Haiz, no quiero hacer nada.</string>
+    <string name="label_sound_startle">¡Hola! ¿¡Qué pasó!? D:</string>
+    <string name="label_sound_scratch">¡Tú les rascas la espalda y ellos te rascarán la tuya!</string>
+    <string name="label_sound_shy">He sido tímido desde que era un niño</string>
+    <string name="label_sound_exhausted">Estoy tan cansada :(</string>
+    <string name="tab_timer">Temporizador</string>
+    <string name="tab_loop">Bucle</string>
+    <string name="time_play">El sonido se reproducirá en:</string>
+    <string name="languages">Idiomas</string>
+    <string name="splash_screen_title">Esta acción puede contener publicidad</string>
+    <string name="menu_item_sound">Sonidos</string>
+    <string name="menu_item_translator">Traductor</string>
+    <string name="menu_item_training">Entrenamiento</string>
+    <string name="menu_item_whistle">Silbato</string>
+    <string name="intro">Siguiente</string>
+    <string name="language_en">Inglés</string>
+    <string name="language_fr">francés</string>
+    <string name="let_me_recommend">Déjame recomendarte esta aplicación</string>
+    <string name="share_to">Compartir en</string>
+    <string name="Send">Enviar</string>
+    <string name="Oh_no">¡Oh, no!</string>
+    <string name="Please_leave_us_some_feedback">Por favor déjenos sus comentarios</string>
+    <string name="rate">Tarifa</string>
+    <string name="We_like_you_too">¡También nos gustas!</string>
+    <string name="Thank_for_your_feedback">Gracias por sus comentarios.</string>
+    <string name="We_are_working">Estamos trabajando duro para una mejor experiencia de usuario.</string>
+    <string name="We_greatly_appreciate">Le agradeceríamos mucho que nos calificara.</string>
+    <string name="Please_feedback">Por favor déjame un comentario</string>
+    <string name="The_best_we_can_get">La mejor que podemos conseguir</string>
+    <string name="we_are_working_hard_for_a_better_user_experience">Estamos trabajando duro para una mejor experiencia de usuario.</string>
+    <string name="we_d_greatly_appreciate_if_you_can_rate_us">Le agradeceríamos mucho que nos calificara.</string>
+    <string name="Writing_something">Escribiendo algo…</string>
+    <string name="may_be_later">Quizás más tarde</string>
+    <string name="language_es">España</string>
+    <string name="language_hi">Hindi</string>
+    <string name="language_vi">Tiếng Việt</string>
+    <string name="language_pt">Portugal</string>
+</resources>

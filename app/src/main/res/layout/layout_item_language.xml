@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/relay_language"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/spinner_bg_2"
+        android:paddingStart="10dp"
+        android:paddingEnd="8dp">
+
+        <RelativeLayout
+            android:id="@+id/card_avatar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            tools:ignore="RtlSymmetry">
+
+            <ImageView
+                android:id="@+id/img_avatar"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:contentDescription="@null"
+                tools:ignore="RtlSymmetry" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="9dp"
+            android:layout_toEndOf="@id/card_avatar"
+            android:textColor="#24282D"
+            android:textSize="12sp" />
+
+    <RadioButton
+        android:id="@+id/rb_active"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="8dp"
+        android:button="@drawable/radio_flat_text_selector"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        tools:ignore="RtlSymmetry" />
+    </RelativeLayout>

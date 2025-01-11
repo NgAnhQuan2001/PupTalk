@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_752A00">#752A00</color>
+    <color name="color_FF7B31">#FF7B31</color>
+    <color name="colorDekraOrange">#FF7B31</color>
+    <color name="colorDekraYellow">#FF7B31</color>
+    <color name="color_201510">#201510</color>
+    <color name="color_FF7628">#FF7628</color>
+    <color name="color_F4E7D6">#F4E7D6</color>
+    <color name="color_trans">#00FFFFFF</color>
+    <color name="light_pink">#FF7628</color>
+    <color name="color_C4C4C4">#C4C4C4</color>
+    <color name="color_33754D39">#33754D39</color>
+</resources>

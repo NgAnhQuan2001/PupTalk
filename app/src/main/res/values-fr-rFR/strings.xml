@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pup Talk</string>
+    <string name="label_text_intro"> COMMUNIQUER AVEC\nVOTRE CHIEN</string>
+    <!-- À FAIRE : Supprimer ou modifier ce texte d\'espace réservé -->
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="training_food_title">Nourriture</string>
+    <string name="training_food_description">Les chiens sont omnivores et ont besoin d\'un large éventail de nutriments pour maintenir une santé optimale. Cela inclut le bon équilibre des protéines, des graisses et des huiles, des glucides</string>
+    <string name="training_praise_title">Éloge</string>
+    <string name="training_praise_description">Vous pouvez probablement penser à cinq choses que vous souhaiteriez que votre chien arrête de faire, comme jeter la poubelle ou saisir le pantalon de pyjama de votre enfant tous les matins.</string>
+    <string name="training_bitting_title">Mordre</string>
+    <string name="training_bitting_description">Le plus souvent, les chiens mordent les gens lorsqu\'ils se sentent menacés d\'une manière ou d\'une autre. C\'est un instinct naturel qui est encore présent chez les chiens domestiques. C\'est pourquoi il est important pour tous ceux qui interagissent avec un chien </string>
+    <string name="training_obdience_title">Obéissance</string>
+    <string name="training_obdience_description">Même avant de ramener à la maison un chien d\'un éleveur ou même du refuge pour animaux, il est impératif que vous décidiez et établissiez quelques règles de base à respecter par tous les autres membres de la maison lorsque le chien est déjà là. </string>
+    <string name="training_barking_title">Aboiement</string>
+    <string name="training_barking_description">Les chiens aboient pour de nombreuses raisons différentes. Un chien peut aboyer pour exprimer ce qu\'il ressent, par exemple lorsqu\'il est excité, frustré, ennuyé ou effrayé. Si un chien se sent menacé, il peut aboyer pour dire à quelqu\'un de rester à l\'écart ou de partir.</string>
+    <string name="activity_training_food_1_title">Comment servir la nourriture</string>
+    <string name="activity_training_food_1_description">Les chiens sont omnivores et ont besoin d\'un large éventail de nutriments pour maintenir une santé optimale. Cela inclut le bon équilibre des protéines, des graisses et des huiles, des glucides, des minéraux et des vitamines. Au Royaume-Uni, les aliments pour animaux de compagnie sont régis par plus de 50 lois, et un aliment commercial complet pour animaux de compagnie doit respecter des quantités minimales de nutriments spécifiques pour s\'y conformer. Cela signifie qu\'une nourriture complète pour animaux de compagnie de haute qualité contiendra le juste équilibre de tout ce dont votre animal a besoin dans son alimentation.</string>
+    <string name="activity_training_food_2_title">Trouvez un endroit idéal</string>
+    <string name="activity_training_food_2_description">Nourrissez votre chien dans un endroit calme, loin de l\'agitation de la maison. Servez toujours les aliments pour chiens dans un bol propre et placez-les sur une surface facile à nettoyer, comme un sol carrelé. Si vous constatez que la gamelle de votre chien glisse sur le sol, utilisez une gamelle antidérapante ou un tapis d\'alimentation en caoutchouc.
+Les chiens qui engloutissent leur nourriture pourraient bénéficier de bols spéciaux anti-déglutition qui encouragent une alimentation plus lente tandis que les chiens plus âgés - ou les mangeurs désordonnés - peuvent préférer une mangeoire pour chien surélevée.
+Si vous avez d\'autres chiens dans la maison, nourrissez-les en même temps, mais séparément les uns des autres, pour éviter les brimades et les bagarres.</string>
+    <string name="activity_training_food_3_title">Servir et conserver les aliments</string>
+    <string name="activity_training_food_3_description">En ce qui concerne l\'alimentation des chiens, essayez de servir de la nourriture humide (boîtes/pots/sachets) à température ambiante, car elle sent plus bon et est plus facile à digérer. Cela signifie le sortir du réfrigérateur environ une heure avant de le nourrir. Vous pouvez utiliser le micro-ondes pendant une courte période pour le réchauffer, mais assurez-vous que la nourriture n\'est jamais chaude.
+La nourriture humide se rassis rapidement, alors évitez de la laisser dehors. Une fois ouvert, ne conservez pas les aliments humides plus de 24 heures, même au réfrigérateur.
+Les aliments secs, en revanche, peuvent être laissés de côté pendant la journée sans se gâter. Conservez-le dans un environnement propre et sec, idéalement dans un contenant hermétique ou une boîte refermable, pour conserver ses arômes et éviter qu\'il ne se rafraîchisse.
+La plupart des chiens aiment croquer leur nourriture sèche, mais si votre animal le préfère avec un peu d\'eau, ou s\'il existe une raison médicale pour laquelle vous devez éviter les aliments durs, faites tremper la nourriture dans l\'eau jusqu\'à 30 minutes avant de la servir. Les croquettes sèches aident à éliminer la plaque dentaire. Par conséquent, si vous ajoutez de l\'eau aux aliments secs, vous voudrez peut-être également compléter sa nourriture avec un traitement dentaire régulier. N\'oubliez pas qu\'un brossage régulier est le meilleur moyen de prévenir les maladies dentaires chez les chiens.</string>
+    <string name="activity_training_food_4_title">Alimentation et exercice</string>
+    <string name="activity_training_food_4_description">N\'exercez jamais votre chien une heure avant ou une heure après le repas. Les chiens de grande taille et de race géante peuvent être sensibles aux ballonnements de l\'estomac et à la torsion de l\'intestin (une affection appelée dilatation gastrique et volvulus), ce qui constitue une urgence médicale. Les symptômes incluent un ventre gonflé, des haut-le-cœur et votre chien agit comme s\'il était très mal à l\'aise. Contactez immédiatement votre vétérinaire si vous êtes inquiet pour votre chien.</string>
+    <string name="activity_training_praise_1_title">Le pouvoir de la louange : encourager le bon comportement chez les chiens</string>
+    <string name="activity_training_praise_1_description">Vous pouvez probablement penser à cinq choses que vous souhaiteriez que votre chien arrête de faire, comme jeter la poubelle ou saisir le pantalon de pyjama de votre enfant tous les matins. Ou peut-être pouvez-vous penser à cinq choses que vous souhaiteriez que votre chien fasse mieux, comme venir quand on l\'appelle ou marcher en laisse. Vous pourriez vous retrouver à dire fréquemment à votre chien « arrête » ou « non », et il y a de fortes chances que vous soyez frustré par le comportement de votre chien. Mais vous arrêtez-vous parfois de reconnaître à votre chien le mérite des millions de choses qu\'il réussit chaque jour ?
+Pensez-y. Les chiens entrent dans nos vies sans connaître notre langue ou nos coutumes. Ils doivent s\'adapter à notre mode de vie et freiner bon nombre des comportements qui leur viennent naturellement, comme l\'utilisation de leurs dents et de leur voix. Nous tenons nos chiens à un niveau de comportement élevé, que nous les aidions à traverser cette transition culturelle avec une formation ou que nous les laissions se débrouiller seuls. Bien sûr, les chiens sont d\'excellents observateurs et, pour la plupart, ils parviennent à s\'intégrer de manière transparente dans nos vies, que nous les guidions ou non.
+Malheureusement, nous corrigeons rapidement nos chiens lorsqu\'ils font des erreurs, ce qui signifie que nous manquons souvent de reconnaître les nombreux choix corrects qu\'ils font lorsqu\'ils naviguent dans notre monde. Cela laisse un vide de louange. Les chiens attirent notre attention lorsqu\'ils font la mauvaise chose, mais leur beauté quotidienne n\'est pas reconnue. Mais en faisant un petit changement dans votre comportement, en reconnaissant ces nombreux moments de bien fugaces, vous constaterez que votre chien est plus susceptible de les répéter, et votre relation commencera à se transformer.</string>
+    <string name="activity_training_praise_2_title">Reconnaître votre chien pour son bon comportement</string>
+    <string name="activity_training_praise_2_description">Il est vrai pour chaque être, des humains aux animaux, que le comportement récompensé se répétera. Les récompenses alimentaires sont un renforçateur presque universel dans le monde canin, elles sont donc un excellent moyen d\'obtenir et de conserver des comportements. Cela dit, vous n\'avez pas besoin de devenir un distributeur de friandises sans fond pour que votre chien répète les comportements quotidiens que vous appréciez. Reconnaître simplement votre chien avec des éloges verbaux pour de bonnes décisions est un moyen puissant d\'encourager votre chien à continuer son bon travail.
+Exploiter vos compétences de louange quotidiennes nécessite que vous deveniez un étudiant du comportement de votre chien, car certaines des meilleures choses à louer peuvent être éphémères. Une fois que vous avez réaligné votre point de vue et commencé à surveiller les comportements dignes d\'éloges, vous commencerez à le voir constamment. (Nos chiens sont vraiment bien meilleurs que nous ne le pensons.)
+Par exemple, l\'une des exigences les plus élémentaires du statut de "bon chien" est d\'aller aux toilettes à l\'extérieur, alors pourquoi ne pas féliciter votre chien pour avoir bien fait les choses tous les jours ? Dire à votre chien « chemin à parcourir » quand il fait ses besoins est un moyen simple de lui faire savoir que vous appréciez ses compétences en matière de propreté. Maintenant, considérez le reste de votre journée avec votre chien - pouvez-vous penser à d\'autres petites façons pour qu\'il réussisse ? Peut-être qu\'il s\'assoit pendant que vous préparez sa nourriture, ou lorsque vous attachez la laisse, ou avant que vous ne lui lanciez une balle. Ce sont tous des comportements louables.
+Reconnaître votre chien pour son bon comportement n\'est qu\'une partie du continuum d\'éloges. Reconnaître votre chien pour avoir pris la bonne décision est un moyen encore plus puissant de mettre les éloges au travail. N\'oubliez pas que votre chien a un libre arbitre personnel et que ses journées sont remplies de milliers de calculs instantanés sur ce qu\'il faut faire ensuite. Par exemple, lorsque votre voisin traîne sa poubelle bruyante dans son entrée, votre chien doit déterminer s\'il doit aboyer. Ou, si votre chat sauvé décide de faire une apparition surprise dans la salle familiale, votre chien doit décider s\'il veut le chasser. Ignorer le tireur d\'ordures et renoncer à la chasse aux chats sont des décisions que vous voulez certainement que votre chien répète, alors félicitez-le chaleureusement lorsque votre chien choisit de faire la bonne chose.
+Oui, féliciter l\'absence d\'un «mauvais» comportement, comme aboyer, courir après, sauter ou intimider, peut être tout aussi important que féliciter votre chien pour avoir adopté un bon comportement, comme s\'asseoir, s\'installer ou rester. Le simple fait d\'utiliser votre voix pour renforcer le choix intelligent de votre chien vous aidera à vous assurer qu\'il recommencera la prochaine fois qu\'il rencontrera la même situation.
+La façon dont vous louez est importante. Vous n\'avez pas besoin d\'en faire trop lorsque vous félicitez votre chien, d\'autant plus que vous finirez par le féliciter fréquemment tout au long de la journée. Un simple "bon travail" ou "bonne décision !" et une tape et un sourire aideront votre chien à comprendre que vous appréciez ce qu\'il a fait. Bien sûr, si votre chien fait quelque chose d\'incroyable, comme revenir vers vous au lieu de courir après un lapin dans votre jardin, amplifiez les éloges pour qu\'il sache qu\'il a fait quelque chose d\'exceptionnel.
+Augmenter la quantité de reconnaissance positive que vous donnez quotidiennement à votre chien transformera votre relation. Des commentaires fréquents aident votre chien à bien vivre sa vie plus souvent et l\'encouragent à continuer à essayer de faire ce qu\'il faut. Les friandises seront toujours un puissant renforçateur principal pour la plupart des chiens, mais la puissance des commentaires positifs d\'un être humain bien-aimé vient juste après.</string>
+    <string name="activity_training_bitting_1_title">Pourquoi les chiens mordent-ils ?</string>
+    <string name="activity_training_bitting_1_description">Le plus souvent, les chiens mordent les gens lorsqu\'ils se sentent menacés d\'une manière ou d\'une autre. C\'est un instinct naturel qui est toujours présent chez les chiens domestiques. C\'est pourquoi il est important que tous ceux qui interagissent avec un chien comprennent ce qui peut provoquer ce comportement agressif.
+Un chien peut mordre pour se défendre, défendre son territoire ou un membre de sa meute. Une mère chienne protège aussi farouchement ses chiots.
+Surprendre un chien en le réveillant ou en l\'approchant soudainement par derrière peut le faire mordre.
+Fuir un chien, même pendant le jeu, peut également provoquer une morsure. Le chien peut penser que cela fait partie du plaisir, ou s\'enfuir pourrait déclencher un comportement de troupeau ou une poursuite prédatrice chez certaines races.
+Un chien qui se trouve dans une situation effrayante peut mordre quiconque s\'en approche. Une telle situation peut être quelque chose d\'aussi grave que d\'être maltraité ou abandonné au bord de la route, ou cela peut être quelque chose que vous percevez comme ordinaire, comme un bruit fort.
+Les blessures et les maladies sont également des raisons courantes. Si un chien ne se sent pas bien ou a mal, il se peut qu\'il ne veuille même pas être approché ou touché par ses personnes préférées.</string>
+    <string name="activity_training_bitting_2_title">Comment arrêter les morsures de chien</string>
+    <string name="activity_training_bitting_2_description">En tant que propriétaire de chien, vous devez assumer la responsabilité de dresser votre chien et de le garder sous contrôle à tout moment. Vous êtes responsable du comportement de votre chien et êtes la première ligne de défense pour prévenir les morsures de chien. Il est important que vous fassiez tout ce que vous pouvez pour assurer la sécurité des autres et empêcher votre chien de mordre :
+Donnez à votre chien une formation de base à tout le moins et continuez à suivre le programme de formation de votre chien tout au long de sa vie pour renforcer les leçons que vous lui avez enseignées.
+Socialisez votre chien. Permettez à votre chien de rencontrer et d\'interagir avec différents types de personnes, y compris des enfants, des personnes handicapées et des personnes âgées dans des circonstances calmes et positives.
+Exposez régulièrement votre chien à diverses situations telles que d\'autres chiens, des bruits forts, de grosses machines, des vélos ou toute autre chose qui pourrait susciter la peur. Commencez cette formation avec votre chien au plus jeune âge possible et gardez les expériences positives.
+Faites attention à votre chien et sachez quand les choses peuvent conduire à une agression. Si vous ne pouvez pas contrôler la situation ou le comportement de votre chien, vous devrez peut-être retirer votre chien avant que les choses ne deviennent incontrôlables.
+Ne disciplinez pas votre chien en utilisant des punitions physiques, violentes ou agressives. Optez pour le renforcement positif - félicitations et friandises - avant de recourir à l\'utilisation d\'aversifs, tels que des colliers de choc et des bruits forts, pour discipliner les comportements indésirables. Récompenser constamment votre chien pour un comportement souhaitable est beaucoup plus efficace car les chiens visent à plaire à leur peuple.
+Gardez toujours votre chien en laisse ou dans une zone clôturée. Connaissez bien votre chien avant de le laisser sans laisse dans les zones autorisées. Gardez votre chien en vue à tout moment.
+Si vous soupçonnez ou savez que votre chien a des tendances craintives ou agressives, avertissez toujours les autres. Ne laissez pas votre chien s\'approcher de personnes et d\'autres animaux à moins que la situation ne soit strictement contrôlée. Utilisez une muselière si nécessaire.
+Gardez les vaccinations de votre chien à jour, en particulier sa vaccination contre la rage, et visitez régulièrement votre vétérinaire pour des bilans de santé.</string>
+    <string name="activity_training_bitting_3_title">Comment interagir en toute sécurité avec un chien</string>
+    <string name="activity_training_bitting_3_description">Les chiens sont mignons et souvent amicaux, il est donc facile de s\'énerver quand on en voit un. Cependant, un chien peut rapidement se retourner contre quelqu\'un qu\'il ne connaît pas.
+Même si vous n\'avez pas de chien à vous, il est important que vous et les autres personnes de votre entourage, y compris les enfants, sachiez comment interagir avec les chiens et comment et quand en approcher un.
+N\'essayez jamais d\'approcher ou de toucher un chien inconnu sans demander au préalable la permission du propriétaire. Si le propriétaire du chien n\'est pas présent, ne vous approchez pas du chien.
+N\'approchez jamais un chien qui mange, dort ou s\'occupe de chiots. Les chiens dans ces situations sont plus susceptibles d\'être protecteurs et sont facilement effrayés.
+Ne vous approchez pas, ne touchez pas ou n\'essayez pas de déplacer un chien blessé. Au lieu de cela, contactez un professionnel vétérinaire ou un contrôle des animaux pour obtenir de l\'aide.
+Ne laissez jamais un jeune enfant ou un bébé seul avec un chien pour quelque raison que ce soit.
+Lorsque vous rencontrez un chien inconnu, laissez-le venir à vous. Accroupissez-vous ou tournez-vous sur le côté. Laissez-le renifler votre main avant de le caresser.
+Ne mettez pas votre visage près d\'un chien inconnu ; cela inclut "câlins et bisous".
+Si vous êtes coincé par un chien, restez immobile et évitez tout contact visuel. Ne jamais courir ni crier. Lorsque le chien cesse de vous prêter attention, reculez lentement.
+Si vous êtes renversé par un chien, allongez-vous sur le côté en position fœtale et couvrez-vous la tête et le visage. Restez immobile et calme.</string>
+    <string name="activity_training_bitting_4_title">Si votre chien mord quelqu\'un</string>
+    <string name="activity_training_bitting_4_description">If your dog bites a person, it\'s important to act quickly. First, confine the dog and then immediately assist the victim. The victim should wash the bite thoroughly with soap and warm water, if possible, and then seek immediate medical attention.</string>
+    <string name="activity_training_obdience_1_title">Establish House Rules Everyone In The Home Can Adhere To</string>
+    <string name="activity_training_obdience_1_description">Even before you bring home a pooch from a breeder or even from the animal shelter, it is imperative that you decide and establish some basic ground rules to be observed by everyone else in the home when the dog is already there. The idea is to make sure that the pet doesn’t get conflicting commands or ‘rules’. For example, if you think that your dog should not go up the sofa yet another family member thinks that it is okay, then this will confuse the dog as to who among you it will obey. Naturally, it will obey the person who gives it such an indulgence.
+    That being said, gather everyone around and try to discuss some of the things that everyone will have to be consistent about once the dog is already home. These can include the area where the dog will be sleeping, eating, and eliminating and whether it will be allowed to enter the bedroom or not. You might also want to establish ground rules on table scraps as well as snacking as the saddened face of a dog can truly break the hearts of kids. Again, if you want your dog to be more obedient, you have to start it with consistent rules in your home.</string>
+    <string name="activity_training_obdience_2_title">Pick Your Doggie’s Name and Stand By It</string>
+    <string name="activity_training_obdience_2_description">Alongside consistency in house rules, you will also have to be consistent in its name. For example, if you have decided to call your dog “Spot” then everyone else in the family will have to call it as such. There should be no whistling or the use of any other sound to call it. The idea is for the dog to understand that the sound “Spot” refers to it and that it cannot be called by any other name. Imagine if someone else will be whistling at your dog, if it is properly trained to respond only to the call or the sound of its name, then it will ignore the whistle. Just remember to give your dog positive reinforcement every time it responds to the call of its name.</string>
+    <string name="activity_training_obdience_3_title">Housetrain Your Pooch</string>
+    <string name="activity_training_obdience_3_description">All puppies must undergo housetraining. If you brought an adult dog into your home, you will have to housetrain it, too; although it would require more patience and greater perseverance on your part. What is important is for puppies and dogs to learn when and where to eat, sleep, drink, urinate, and defecate. Again, perseverance is the key and the consistent efforts of everyone in your household can definitely help. For instance, if you have designated a certain spot in the kitchen to feed your dog, make sure that everyone else in the family is going to feed this pup in the same area.</string>
+    <string name="activity_training_obdience_4_title">Teach Your Dog Basic Commands and Tricks</string>
+    <string name="activity_training_obdience_4_description">Vous n\'avez pas besoin d\'apprendre à votre chien des tours très sophistiqués. Tout ce qu\'il a besoin d\'apprendre, ce sont les bases telles que les commandes « assis », « rester », « venir » et « descendre ». Vous pourriez penser que ceux-ci sont très faciles, mais pour un chien, associer ces signaux verbaux à un comportement acceptable ou souhaitable prend beaucoup de temps et d\'efforts à maîtriser. Si vous n\'avez pas la patience de voir l\'entraînement de votre chien, il est presque toujours certain que cela ne réussira pas à rendre votre chien plus obéissant. Assurez-vous d\'utiliser ces commandes de base même lorsque vous ne vous entraînez pas, car cela renforce fortement leur compréhension de ce que signifie s\'asseoir, descendre, rester et même venir. Quoi qu\'il en soit, la répétition de ces commandes dans tous les aspects imaginables de leur existence les aidera à s\'habituer à votre voix et à vos commandes.</string>
+    <string name="activity_training_obdience_5_title">Apprenez à utiliser des friandises pour un renforcement positif et comme leurre</string>
+    <string name="activity_training_obdience_5_description">Nous entendons toujours les comportementalistes canins parler de renforcement positif chaque fois que nous entraînons ou enseignons des chiens. La raison est plutot simple. Apprenez-leur à associer un comportement souhaitable à quelque chose de vraiment agréable afin qu\'ils soient plus que tentés de continuer à répéter le même comportement encore et encore. La clé est donc d\'identifier cette chose qui leur apportera du plaisir. Heureusement que les chiens ne sont pas si difficiles à satisfaire. Jouer avec eux, les câliner et même les serrer dans ses bras sont d\'excellents moyens de montrer à votre toutou que vous l\'aimez. Cependant, une astuce qui ne manque jamais en matière de renforcement positif consiste à leur donner leurs friandises pour chiens préférées. La clé est d\'apprendre quand donner la friandise afin qu\'ils l\'associent à ce qu\'ils viennent de faire. Techniquement, tout est une question de timing.</string>
+    <string name="activity_training_obdience_6_title">Faire en sorte que les séances d\'entraînement à l\'obéissance soient relativement courtes</string>
+    <string name="activity_training_obdience_6_description">L\'une des choses les plus délicates à maîtriser lorsqu\'il s\'agit de dressage d\'obéissance canine est de savoir quand arrêter le dressage. Ce qui fonctionne généralement avec une personne ne signifie pas nécessairement que cela devrait fonctionner avec une autre. Le principal obstacle à une formation efficace à l\'obéissance est la capacité d\'attention du chien. Les chiots, comme les enfants, ont une capacité d\'attention relativement courte. Si vous ne faites pas attention au temps que vous passez à les former, il y a une forte tendance à ce qu\'ils s\'ennuient et perdent simplement tout intérêt pour ce que vous leur enseignez. Alors que les experts recommandent de limiter les séances d\'entraînement à 10 à 15 minutes, il y a aussi ceux qui disent de s\'inspirer de votre chien. Si dans le cas où aucune redirection ou correction ne va jamais sortir votre chien de son désintérêt, alors vous voudrez peut-être vous arrêter là et reprendre le lendemain. N\'oubliez pas de donner un renforcement positif, cependant.</string>
+    <string name="activity_training_barking_1_title">Aboiements de chiens : que puis-je faire ?</string>
+    <string name="activity_training_barking_1_description">Les chiens aboient pour de nombreuses raisons différentes. Un chien peut aboyer pour exprimer ce qu\'il ressent, par exemple lorsqu\'il est excité, frustré, ennuyé ou effrayé. Si un chien se sent menacé, il peut aboyer pour dire à quelqu\'un de rester à l\'écart ou de partir.
+D\'autres fois, les chiens peuvent aboyer parce qu\'ils veulent quelque chose en particulier, comme leur jouet préféré. Les chiens peuvent également aboyer lorsqu\'ils sont en détresse - par exemple - lorsqu\'ils sont laissés seuls.
+L\'aboiement est une forme de communication et un comportement tout à fait normal chez le chien. Cependant, si le nombre d\'aboiements de votre chien augmente ou devient excessif, cela peut être un signe que quelque chose ne va pas et cela peut également causer des problèmes à d\'autres personnes.
+Si cela se produit, il est important de résoudre tout problème sous-jacent qui pourrait amener votre chien à aboyer davantage.
+Cela étant dit, rassemblez tout le monde et essayez de discuter de certaines des choses sur lesquelles tout le monde devra être cohérent une fois que le chien sera déjà à la maison. Ceux-ci peuvent inclure la zone où le chien dormira, mangera et éliminera et s\'il sera autorisé à entrer dans la chambre ou non. Vous pouvez également établir des règles de base sur les restes de table ainsi que sur les collations, car le visage attristé d\'un chien peut vraiment briser le cœur des enfants. Encore une fois, si vous voulez que votre chien soit plus obéissant, vous devez commencer avec des règles cohérentes dans votre maison.</string>
+    <string name="activity_training_barking_2_title">Mon chien a commencé à aboyer beaucoup plus que d\'habitude</string>
+    <string name="activity_training_barking_2_description">Si votre chien aboie excessivement ou plus que d\'habitude, il peut y avoir un problème de santé sous-jacent - par exemple, tout problème auditif de votre chien pourrait être à l\'origine de l\'aboiement. Si vous soupçonnez que l\'ouïe de votre chien souffre ou qu\'il y a quelque chose d\'autre qui ne va pas, parlez-en toujours à votre vétérinaire.</string>
+    <string name="activity_training_barking_3_title">Mon chien aboie lorsqu\'il est laissé seul</string>
+    <string name="activity_training_barking_3_description">Si votre chien aboie lorsque vous n\'êtes pas là, il peut ressentir de la détresse lorsque vous n\'êtes pas présent. L\'anxiété liée à la séparation peut se manifester de plusieurs façons, y compris les aboiements. La bonne nouvelle, c\'est qu\'il y a des choses que vous pouvez faire pour aider et déterminer la cause des aboiements.</string>
+    <string name="activity_training_barking_4_title">Mon chien aboie sur les visiteurs ou les passants</string>
+    <string name="activity_training_barking_4_description">Certains chiens aboient sur les passants devant votre maison ou votre jardin. Vous pouvez essayer d\'empêcher votre chien de voir quiconque passer devant la maison en réduisant l\'accès aux fenêtres ou aux jardins.
+C\'est une bonne idée d\'avoir des friandises savoureuses et des jouets excitants à portée de main - vous pouvez les utiliser pour vous distraire - idéalement, cela se produirait avant qu\'ils ne commencent à aboyer ou lorsqu\'ils interrompent leur comportement avec une friandise lorsqu\'ils viennent vers vous.</string>
+    <string name="activity_training_barking_5_title">Comment réduire les aboiements excessifs</string>
+    <string name="activity_training_barking_5_description">Évitez l\'ennui - les chiens sont des animaux intelligents, actifs et sociaux, ils ont donc besoin de beaucoup d\'exercice, de choses à faire et de compagnie pour les garder heureux et en bonne santé. Si votre chien s\'ennuie, il passera peut-être plus de temps à aboyer.
+Assurez-vous que votre chien a suffisamment à faire chaque jour pour l\'empêcher de s\'ennuyer.
+Établissez une bonne routine - votre chien peut aboyer pour indiquer qu\'il veut jouer, qu\'il veut de la nourriture ou qu\'il a besoin d\'attention. Assurez-vous d\'avoir une routine quotidienne en place pour votre chien qui comprend des heures de repas ainsi que des jeux et de l\'exercice, à peu près à la même heure chaque jour. Une bonne routine peut aider votre chien à savoir quelles activités vont avoir lieu et à quel moment et peut l\'empêcher d\'aboyer pour des activités à d\'autres moments !
+Les chiens aboient pour tant de raisons différentes et il est donc nécessaire de découvrir quelle en est la cause. Demander conseil à un expert peut vous aider à comprendre la cause du comportement et il pourra également vous orienter dans la bonne direction pour obtenir de l\'aide.
+Pour obtenir des conseils d\'expert, contactez un comportementaliste animalier clinique qui pourra élaborer un plan de traitement pour vous et votre chien.</string>
+    <string name="activity_training_barking_6_title">Signaler un chien qui aboie</string>
+    <string name="activity_training_barking_6_description">L\'aboiement occasionnel ou \'woof\' n\'est généralement pas un problème pour les voisins et les autres membres de la communauté, mais lorsque l\'aboiement devient perturbateur, il est souvent considéré comme inacceptable et désagréable pour de nombreuses personnes. Le bien-être du chien peut également être compromis, mais le propriétaire peut ne pas se rendre compte que son chien a aboyé s\'il n\'est pas là à ce moment-là.
+Si vous craignez qu\'un chien aboie excessivement près de vous, il y a des choses que vous pouvez faire :
+Parlez au propriétaire. Ils peuvent ne pas être conscients qu\'il y a un problème, ou ils peuvent utiliser certains des conseils ci-dessus pour essayer de résoudre le problème.
+Si parler à votre voisin n\'a pas fonctionné ou n\'est pas une option, essayez de contacter votre conseil local au sujet de la plainte pour bruit. Cela peut aider à résoudre le problème sous-jacent, ou s\'il y a une plainte d\'aide sociale, ils nous contacteront.
+Contactez votre mairie au sujet d\'un chien qui aboie.</string>
+    <string name="label_feature">Fonctionnalité</string>
+    <string name="label_dog_translate">Chien Traduction</string>
+    <string name="label_share">Partager</string>
+    <string name="label_default_device">Appareil par défaut</string>
+    <string name="label_language">Langue</string>
+    <string name="label_rate">Taux</string>
+    <string name="label_privacy_policy">Politique de confidentialité</string>
+    <string name="sound_item_1">Salut</string>
+    <string name="sound_item_2">Merveille</string>
+    <string name="sound_item_3">Heureux</string>
+    <string name="sound_item_4">Amour</string>
+    <string name="sound_item_5">Bonne marche</string>
+    <string name="sound_item_6">Danse</string>
+    <string name="sound_item_7">D\'accord</string>
+    <string name="sound_item_8">Applaudissements</string>
+    <string name="sound_item_9">Salut clôture</string>
+    <string name="sound_item_10">Pleurer</string>
+    <string name="sound_item_11">Pleurer en mentant</string>
+    <string name="sound_item_12">Non !</string>
+    <string name="sound_item_13">Oui</string>
+    <string name="sound_item_14">Ouah</string>
+    <string name="sound_item_15">Animal</string>
+    <string name="sound_item_16">Mendicité</string>
+    <string name="sound_item_17">Je veux dormir</string>
+    <string name="sound_item_18">Oui</string>
+    <string name="sound_item_19">Mentir</string>
+    <string name="sound_item_20">Surprendre</string>
+    <string name="sound_item_21">Érafler</string>
+    <string name="sound_item_22">timide</string>
+    <string name="sound_item_23">Épuisé</string>
+    <string name="sound_item_24">Peur</string>
+    <string name="sound_item_25">En colère</string>
+    <string name="sound_item_sad">Sad</string>
+    <string name="sound_item_26">Super en colère</string>
+    <string name="label_press_to_record_vocals">Appuyez pour enregistrer la voix</string>
+    <string name="label_translate_result">Traduire le résultat</string>
+    <string name="label_close">Fermer</string>
+    <string name="label_doing">Qu\'est-ce que tu fais ?</string>
+    <string name="label_hi">Bonjour, bonne journée !</string>
+    <string name="label_happy">Je suis heureux que vous soyez entré dans ma vie</string>
+    <string name="label_love">Je sens que je tombe amoureux en ce moment</string>
+    <string name="label_happy_walk">Je suis content d\'aller me promener</string>
+    <string name="label_dance">Je suis heureux et j\'ai envie de danser</string>
+    <string name="label_hand_clap">Tu es si intelligent, ma clôture.</string>
+    <string name="label_hi_fence">Je vais sauter par-dessus la clôture</string>
+    <string name="label_sound_super_argry">Ne touchez pas à ça !</string>
+    <string name="label_sound_argry">Je suis en colère contre mon chat.</string>
+    <string name="label_sound_scare">Pourquoi es-tu si en colère...</string>
+    <string name="label_sound_cry">Je suis resté allongé et j\'ai pleuré pendant 2 jours :(</string>
+    <string name="label_sound_cry_lying">"Mmm... je ne veux pas jouer avec toi maintenant :( "</string>
+    <string name="label_sound_yes">Oui !!!</string>
+    <string name="label_sound_wow">Alors surprise :0</string>
+    <string name="label_sound_pet">Je t\'aime tellement, ma clôture</string>
+    <string name="label_sound_begging">J\'ai faim, quelqu\'un me donne à manger !</string>
+    <string name="label_sound_want_sleep">Bonne nuit !</string>
+    <string name="label_sound_yeah">Ouais ! J\'aime ce sentiment !</string>
+    <string name="label_sound_lie">Haiz, je ne veux rien faire.</string>
+    <string name="label_sound_startle">Hé ! Ce qui s\'est passé!? D :</string>
+    <string name="label_sound_scratch">Vous leur grattez le dos et ils vous gratteront !</string>
+    <string name="label_sound_shy">Je suis timide depuis que je suis enfant</string>
+    <string name="label_sound_exhausted">Je suis tellement fatigué :(</string>
+    <string name="tab_timer">Minuteur</string>
+    <string name="tab_loop">Boucle</string>
+    <string name="time_play">Le son jouera dans :</string>
+    <string name="languages">Langues</string>
+    <string name="splash_screen_title">Cette action peut contenir de la publicité</string>
+    <string name="menu_item_sound">Sons</string>
+    <string name="menu_item_translator">Traducteur</string>
+    <string name="menu_item_training">Formation</string>
+    <string name="menu_item_whistle">Sifflet</string>
+    <string name="intro">Suivant</string>
+    <string name="language_en">anglais</string>
+    <string name="language_fr">Français</string>
+    <string name="let_me_recommend">Laissez-moi vous recommander cette application</string>
+    <string name="share_to">Partager avec</string>
+    <string name="Send">Envoyer</string>
+    <string name="Oh_no">Oh non!</string>
+    <string name="Please_leave_us_some_feedback">Merci de nous laisser un commentaire</string>
+    <string name="rate">Évaluer</string>
+    <string name="We_like_you_too">Nous vous aimons aussi!</string>
+    <string name="Thank_for_your_feedback">Merci pour vos commentaires.</string>
+    <string name="We_are_working">Nous travaillons dur pour une meilleure expérience utilisateur.</string>
+    <string name="We_greatly_appreciate">Nous apprécierions grandement si vous pouviez nous évaluer.</string>
+    <string name="Please_feedback">Commentez sil vous plait</string>
+    <string name="The_best_we_can_get">Le meilleur que nous puissions obtenir</string>
+    <string name="we_are_working_hard_for_a_better_user_experience">Nous travaillons dur pour une meilleure expérience utilisateur.</string>
+    <string name="we_d_greatly_appreciate_if_you_can_rate_us">Nous apprécierions grandement si vous pouviez nous évaluer.</string>
+    <string name="Writing_something">Écrire quelque chose…</string>
+    <string name="may_be_later">Peut-être plus tard</string>
+    <string name="language_es">Espagne</string>
+    <string name="language_hi">hindi</string>
+    <string name="language_pt">le Portugal</string>
+    <string name="language_vi">Tiếng Việt</string>
+</resources>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>  <string name="app_name">Pup Talk</string>
+    <string name="label_text_intro">COMMUNICATE WITH\nYOUR DOG</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="training_food_title">Food</string>
+    <string name="training_food_description">Dogs are omnivorous and need a wide range of nutrients to support optimum health. This includes the correct balance of proteins, fats and oils, carbohydrates</string>
+    <string name="training_praise_title">Praise</string>
+    <string name="training_praise_description">You can probably think of five things you wish your dog would stop doing, like tipping the garbage can, or grabbing your kid’s pajama pants every morning.</string>
+    <string name="training_bitting_title">Bitting</string>
+    <string name="training_bitting_description">Most often, dogs bite people when they feel threatened in some way. It\'s a natural instinct that\'s still present in domesticated dogs. This is why it\'s important for everyone who interacts with a dog </string>
+    <string name="training_obdience_title">Obdience</string>
+    <string name="training_obdience_description">Even before you bring home a pooch from a breeder or even from the animal shelter, it is imperative that you decide and establish some basic ground rules to be observed by everyone else in the home when the dog is already there. </string>
+    <string name="training_barking_title">Barking</string>
+    <string name="training_barking_description">Dogs bark for many different reasons. A dog may bark to express how they\'re feeling - for example, when they\'re excited, frustrated, bored or scared. If a dog feels threatened, they may bark to tell somebody to stay away or to leave.</string>
+    <string name="activity_training_food_1_title">How to serve the food</string>
+    <string name="activity_training_food_1_description">Dogs are omnivorous and need a wide range of nutrients to support optimum health. This includes the correct balance of proteins, fats and oils, carbohydrates, minerals and vitamins. In the UK, pet food is governed by over 50 pieces of legislation, and a complete, commercial pet food must meet minimum quantities of specific nutrients to comply with these. This means that a high quality, complete pet food will contain the right balance of everything that your pet needs from their diet.</string>
+    <string name="activity_training_food_2_title">Find an ideal spot</string>
+    <string name="activity_training_food_2_description">Feed your dog in a quiet place away from the hustle and bustle of the house. Always serve the dog food in a clean bowl and place them on an easy-to-clean surface such as a tiled floor. If you find your dog’s bowl is sliding across the floor, use an anti-slip bowl or a rubber feeding mat.
+Dogs that wolf down their food might benefit from special anti-gulp dog bowls that encourage slower eating while older dogs – or messy eaters – may prefer a raised dog feeder.
+If you have other dogs in the household, feed them at the same time, but apart from one another, to avoid bullying and fighting.</string>
+    <string name="activity_training_food_3_title">Serving and storing food</string>
+    <string name="activity_training_food_3_description">When it comes to dog feeding, try to serve wet food (cans/tubs/pouches) at room temperature, as it smells more attractive and is easier to digest. This means taking it out of the fridge an hour or so before feeding. It’s fine to use the microwave for a short time to warm it through, but be sure that the food is never hot.
+Wet food goes stale quickly so avoid leaving it out. Once opened, don’t store wet food for longer than 24 hours, even in the fridge.
+Dry food, on the other hand, can be left out during the day without spoiling. Store it in a clean, dry environment, ideally in an airtight container or a resealable box, to maintain its aromas and stop it from going stale.
+Most dogs like to crunch on their dry food, but if your pet prefers it with a little water, or there’s a medical reason why you need to avoid hard food, soak the food in water for up to 30 minutes before serving. Dry kibbles help remove plaque so, if you do add water to dry food, you might want to also to supplement his or her food with a regular dental treat. Remember that regular brushing is the best way to prevent doggy dental disease.</string>
+    <string name="activity_training_food_4_title">Feeding and exercise</string>
+    <string name="activity_training_food_4_description">Never exercise your dog an hour before or an hour after feeding. Large and giant breed dogs can be susceptible to bloating of the stomach and twisting of the gut (a condition called gastric dilatation and volvulus), which is a medical emergency. Symptoms include a bloated tummy, retching and your dog acting as if they are very uncomfortable. Contact your vet immediately if you are concerned about your dog.</string>
+    <string name="activity_training_praise_1_title">The Power of Praise: Encouraging Good Behavior in Dogs</string>
+    <string name="activity_training_praise_1_description">You can probably think of five things you wish your dog would stop doing, like tipping the garbage can, or grabbing your kid’s pajama pants every morning. Or maybe you can think of five things you wish your dog would do better, like coming when called or walking on the leash. You might find yourself telling your dog “stop it” or “no” frequently, and there’s a good chance that you get frustrated by your dog’s behavior. But do you ever stop to give your dog credit for the millions of things he gets right every day?
+Think about it. Dogs come into our lives not knowing our language or customs. They have to adapt to our way of life, and curb many of the behaviors that come naturally to them, like using their teeth and voices. We hold our dogs to a high standard of behavior whether we help them through this cultural transition with training, or leave them to figure it out on their own. Of course, dogs are excellent observers, and for the most part, they manage to seamlessly integrate into our lives whether we guide them or not.
+Sadly, we’re quick to correct our dogs when they make mistakes, which means that we often miss out on acknowledging the many correct choices they make as they navigate our world. This leaves a praise vacuum. Dogs get attention from us when they do the wrong thing, but their daily awesomeness goes unrecognized. But by making a tiny shift in your behavior—recognizing those many fleeting moments of good—you’ll find that your dog is more likely to repeat them, and your relationship will start to transform.</string>
+    <string name="activity_training_praise_2_title">Recognizing Your Dog for Good Behavior</string>
+    <string name="activity_training_praise_2_description">It’s true for every being, from humans to animals, that the behavior that is rewarded will be repeated. Food rewards are a nearly universal reinforcer in the dog world, so they’re a great way to get and keep behaviors. That said, you don’t have to become a bottomless treat dispenser in order to get your dog to repeat the everyday behaviors that you appreciate. Simply acknowledging your dog with verbal praise for good decisions is a powerful way to encourage your dog to keep up the good work.
+Tapping into your everyday praise skills requires that you become a student of your dog’s behavior, as some of the best stuff to praise can be fleeting. Once you realign your perspective and start watching for praise-worthy behavior, you’ll start to see it constantly. (Our dogs really are so much better than we give them credit for.)
+For example, one of the most basic requirements of “good dog” status is going to the bathroom outside, so why not praise your dog for getting it right every single day? Telling your dog “way to go” when he does his business is a simple way to let him know you appreciate his housetraining skills. Now, consider the rest of your day with your dog—can you think of other little ways that he gets it right? Perhaps he sits while you prep his food, or when you clip on the leash, or before you toss a ball for him. Those are all praiseworthy behaviors.
+Recognizing your dog for good behavior is just one part of the praise continuum. Acknowledging your dog for making the right decision is an even more powerful way to put praise to work. Remember, your dog has personal agency, and his days are filled with thousands of spilt-second computations about what to do next. For example, when your neighbor drags their noisy garbage can down their driveway, your dog has to determine whether he should bark. Or, if your rescued cat decides to make a surprise appearance in the family room, your dog has to decide whether to chase it. Ignoring the garbage-dragger and forgoing cat-chasing are decisions that you certainly want your dog to repeat, so praise heartily when your dog opts to do the right thing.
+Yes, praising the absence of a “bad” behavior, like barking, chasing, jumping, or bullying, can be just as important as praising your dog for performing a good behavior, like sitting, settling down, or staying. The simple act of using your voice to reinforce your dog’s smart choice will help to ensure that he does it again the next time he encounters the same situation.
+How you praise is important. You don’t have to act over-the-top when you praise your dog, especially since you’re going to end up praising your dog frequently throughout the day. A simple “nice work” or “good decision!” and a pat and smile will help your dog understand that you appreciate what he’s done. Of course, if your dog does something amazing, like coming back to you instead of chasing after a rabbit in your yard, amp up the praise so he knows he’s done something outstanding.
+Increasing the amount of positive acknowledgement you give your dog on a daily basis will transform your relationship. Frequent feedback helps your dog get life right more often, and will encourage him to continue to try to do the right thing. Treats will always be a powerful primary reinforcer for most dogs, but the power of positive feedback from a beloved human is a close second.</string>
+    <string name="activity_training_bitting_1_title">Why Do Dogs Bite?</string>
+    <string name="activity_training_bitting_1_description">Most often, dogs bite people when they feel threatened in some way. It\'s a natural instinct that\'s still present in domesticated dogs. This is why it\'s important for everyone who interacts with a dog to understand what may provoke this aggressive behavior.
+A dog may bite to defend itself, its territory, or a member of its pack. A mother dog fiercely protects her puppies as well.
+Startling a dog by waking it up or suddenly approaching it from behind can provoke it to bite.
+Running away from a dog, even during play, can likewise provoke a bite. The dog may think it\'s part of the fun, or running away could trigger herding behavior or predatory pursuit in some breeds.
+A dog that\'s in a fearful situation may bite anyone who approaches it. Such a situation may be something as severe as being abused or abandoned by the side of the road, or it may be something you perceive as ordinary such as a loud noise.
+Injury and illness are common reasons as well. If a dog isn\'t feeling well or is in pain, it may not even want to be approached or touched by its favorite people.</string>
+    <string name="activity_training_bitting_2_title">How to Stop Dog Bites</string>
+    <string name="activity_training_bitting_2_description">As a dog owner, you must take responsibility for training your dog and keeping it under control at all times. You\'re responsible for your dog\'s behavior and are the first line of defense in preventing dog bites. It\'s important that you do whatever you can to keep others safe and keep your dog from biting:
+Put your dog through basic training at the very least and continue to keep up your dog\'s training program throughout its life to reinforce the lessons you\'ve taught it.
+Socialize your dog. Allow your dog to meet and interact with different types of people, including children, disabled people, and older people under calm, positive circumstances.
+Expose your dog regularly to a variety of situations such as other dogs, loud noises, large machines, bicycles, or anything else that might spark fear. Start this training with your dog at the youngest age possible and keep the experiences positive.
+Pay attention to your dog and know when things may be leading to aggression. If you can\'t control the situation or your dog\'s behavior, you may have to remove your dog before things get out of hand.
+Don\'t discipline your dog by using physical, violent, or aggressive punishment. Opt for positive reinforcement—praise and treats—before resorting to the use of aversives, such as shock collars and loud noises, to discipline undesirable behavior. Consistently rewarding your dog for desirable behavior is far more effective because dogs aim to please their people.
+Always keep your dog on a leash or in a fenced area. Know your dog well before letting it off its leash in permitted areas. Keep your dog in sight at all times.
+If you suspect or know that your dog has fearful or aggressive tendencies, always warn others. Don\'t allow your dog to approach people and other animals unless the situation is strictly controlled. Use a muzzle if necessary.
+Keep your dog\'s vaccinations current, especially its rabies vaccination, and visit your vet routinely for wellness checkups.</string>
+    <string name="activity_training_bitting_3_title">How to Interact Safely With a Dog</string>
+    <string name="activity_training_bitting_3_description">Dogs are cute and often friendly, so it\'s easy to get excited when you see one. However, a dog can quickly turn on someone it doesn\'t know.
+Even if you don\'t have a dog of your own, it\'s important for you and other people in your sphere, including children, to know how to interact with dogs and how and when to approach one.
+Never try to approach or touch an unfamiliar dog without first asking for the owner\'s permission. If the dog\'s owner isn\'t present, don\'t go near the dog.
+Never approach a dog that\'s eating, sleeping, or caring for puppies. Dogs in these situations are more likely to be protective and are easily startled.
+Don\'t approach, touch, or attempt to move an injured dog. Instead, contact a veterinary professional or animal control for assistance.
+Never leave a young child or a baby alone with any dog for any reason.
+When you\'re meeting an unknown dog, allow the dog to come to you. Crouch down or turn to the side. Let it sniff your hand before you pet it.
+Don\'t put your face near an unknown dog; this includes "hugs and kisses."
+If you\'re cornered by a dog, remain still and avoid eye contact. Never run or scream. When the dog stops paying attention to you, slowly back away.
+If you\'re knocked over by a dog, fall to your side in a fetal position and cover your head and face. Remain very still and calm.</string>
+    <string name="activity_training_bitting_4_title">If Your Dog Bites Someone</string>
+    <string name="activity_training_bitting_4_description">If your dog bites a person, it\'s important to act quickly. First, confine the dog and then immediately assist the victim. The victim should wash the bite thoroughly with soap and warm water, if possible, and then seek immediate medical attention.</string>
+    <string name="activity_training_obdience_1_title">Establish House Rules Everyone In The Home Can Adhere To</string>
+    <string name="activity_training_obdience_1_description">Even before you bring home a pooch from a breeder or even from the animal shelter, it is imperative that you decide and establish some basic ground rules to be observed by everyone else in the home when the dog is already there. The idea is to make sure that the pet doesn’t get conflicting commands or ‘rules’. For example, if you think that your dog should not go up the sofa yet another family member thinks that it is okay, then this will confuse the dog as to who among you it will obey. Naturally, it will obey the person who gives it such an indulgence.
+    That being said, gather everyone around and try to discuss some of the things that everyone will have to be consistent about once the dog is already home. These can include the area where the dog will be sleeping, eating, and eliminating and whether it will be allowed to enter the bedroom or not. You might also want to establish ground rules on table scraps as well as snacking as the saddened face of a dog can truly break the hearts of kids. Again, if you want your dog to be more obedient, you have to start it with consistent rules in your home.</string>
+    <string name="activity_training_obdience_2_title">Pick Your Doggie’s Name and Stand By It</string>
+    <string name="activity_training_obdience_2_description">Alongside consistency in house rules, you will also have to be consistent in its name. For example, if you have decided to call your dog “Spot” then everyone else in the family will have to call it as such. There should be no whistling or the use of any other sound to call it. The idea is for the dog to understand that the sound “Spot” refers to it and that it cannot be called by any other name. Imagine if someone else will be whistling at your dog, if it is properly trained to respond only to the call or the sound of its name, then it will ignore the whistle. Just remember to give your dog positive reinforcement every time it responds to the call of its name.</string>
+    <string name="activity_training_obdience_3_title">Housetrain Your Pooch</string>
+    <string name="activity_training_obdience_3_description">All puppies must undergo housetraining. If you brought an adult dog into your home, you will have to housetrain it, too; although it would require more patience and greater perseverance on your part. What is important is for puppies and dogs to learn when and where to eat, sleep, drink, urinate, and defecate. Again, perseverance is the key and the consistent efforts of everyone in your household can definitely help. For instance, if you have designated a certain spot in the kitchen to feed your dog, make sure that everyone else in the family is going to feed this pup in the same area.</string>
+    <string name="activity_training_obdience_4_title">Teach Your Dog Basic Commands and Tricks</string>
+    <string name="activity_training_obdience_4_description">You don’t need to teach your dog very fancy tricks. All it needs to learn are the basics such as the commands ‘sit’, ‘stay’, ‘come’, and ‘down’. You might think that these are very easy but for a dog to associate these verbal cues to an acceptable or desirable behavior takes a lot of time and effort to master. If you don’t have the patience to see the training of your dog, then it is almost always certain that will fail in making your dog become more obedient. Make sure to use these basic commands even when not training as it strongly reinforces their understanding of what it means to sit, go down, stay, and even come. At any rate, the repetition of these commands in every imaginable aspect of their existence will help them get accustomed to your voice and your commands.</string>
+    <string name="activity_training_obdience_5_title">Learn How to Use Treats for Positive Reinforcement and as Lure</string>
+    <string name="activity_training_obdience_5_description">We always hear dog behaviorists talk about positive reinforcement whenever we train or teach dogs. The reason is quite simple. Teach them to associate a desirable behavior with something really pleasurable so that they will be more than enticed to keep on doing the same behavior over and over. The key, therefore, is in identifying that thing that will bring pleasure to them. Good thing dogs aren’t really that difficult to please. Playing with them, cuddling them, and even hugging them are all excellent ways of showing your pooch that you love it. However, one trick that never fails when it comes to positive reinforcement is by giving them their favorite dog treats. The key is to learn when to give the treat so that they will associate it with what they have just done. Technically, it’s all about timing.</string>
+    <string name="activity_training_obdience_6_title">Keep Obedience Training Sessions Relatively Short</string>
+    <string name="activity_training_obdience_6_description">One of the trickiest things to master when it comes to canine obedience training is knowing when to stop the training. What usually works with one person doesn’t necessarily mean it should work with another. The major obstacle to effective obedience training is the pooch’s attention span. Puppies, like children, have a relatively short attention span. If you are not mindful of the time you spend training them, there is a strong tendency that they will feel bored and simply lose interest in what you are teaching them altogether. While experts recommend keeping training sessions to within 10 to 15 minutes, there are also those that say to take your cue from your dog. If in case no amount of redirection or correction is ever going to snap your dog out of its disinterest, then you might want to stop right there and resume the next day. Don’t forget to give positive reinforcement, though.</string>
+    <string name="activity_training_barking_1_title">Barking dogs - what can I do?</string>
+    <string name="activity_training_barking_1_description">Dogs bark for many different reasons. A dog may bark to express how they\'re feeling - for example, when they\'re excited, frustrated, bored or scared. If a dog feels threatened, they may bark to tell somebody to stay away or to leave.
+Other times, dogs may bark because they want something in particular, such as their favourite toy. Dogs may also bark when they\'re in distress - for example - when they\'re left alone.
+Barking is a form of communication and is a completely normal dog behaviour. However, if the amount your dog barks increases or becomes excessive, it can be a sign that something isn\'t right and it may also cause problems for other people.
+If this happens, it\'s important to address any underlying problems which could be causing your dog to bark more.
+That being said, gather everyone around and try to discuss some of the things that everyone will have to be consistent about once the dog is already home. These can include the area where the dog will be sleeping, eating, and eliminating and whether it will be allowed to enter the bedroom or not. You might also want to establish ground rules on table scraps as well as snacking as the saddened face of a dog can truly break the hearts of kids. Again, if you want your dog to be more obedient, you have to start it with consistent rules in your home.</string>
+    <string name="activity_training_barking_2_title">My dog has started barking a lot more than usual</string>
+    <string name="activity_training_barking_2_description">If your dog is barking excessively or more than usual, there may be an underlying health issue - for example, any problems with your dog\'s hearing could be causing the barking. If you suspect your dog\'s hearing is suffering, or there may be something else wrong always speak to your vet.</string>
+    <string name="activity_training_barking_3_title">My dog barks when left alone</string>
+    <string name="activity_training_barking_3_description">If your dog is barking when you\'re not around they may be experiencing distress when you are not present. Separation-related anxiety can show itself in a number of ways including barking. The good news is that there are things you can do to help, and to determine what the cause of the barking may be.</string>
+    <string name="activity_training_barking_4_title">My dog barks at visitors or passers-by</string>
+    <string name="activity_training_barking_4_description">Some dogs will bark at people passing by your house or garden. You can try preventing your dog from seeing anybody passing the house by reducing access to windows or gardens.
+It\'s a good idea to have tasty treats and exciting toys to hand - you can use these to distract - ideally, this would happen before they start barking or when interrupting their behaviour with a treat when they come to you.</string>
+    <string name="activity_training_barking_5_title">How to reduce excessive barking</string>
+    <string name="activity_training_barking_5_description">Prevent boredom - dogs are intelligent, active and social animals so they need lots of exercise, things to do and company to keep them happy and healthy. If your dog is bored, they might spend more time barking.
+Make sure your dog has enough to do every day to stop them from getting bored.
+Establish a good routine - your dog may be barking to communicate that they want to play, want food or need attention. Make sure that you have a daily routine in place for your dog which includes meal times as well as play and exercise, at around the same time each day. A good routine can help your dog to know what and when activities are going to happen and may help to stop them from barking for activities at other times!
+Dogs bark for so many different reasons and so it\'s necessary to discover what the cause is. Asking for advice from an expert can help you to understand what is causing the behaviour and they\'ll also be able to point you in the right direction for help.
+For expert guidance, contact a clinical animal behaviourist who\'ll be able to put a treatment plan together for you and your dog.</string>
+    <string name="activity_training_barking_6_title">Reporting a barking dog</string>
+    <string name="activity_training_barking_6_description">The occasional bark or \'woof\' is usually not a problem for neighbours and others in the community but when barking becomes disruptive,it\'s often considered unacceptable and unpleasant to many people. The dog\'s welfare may also be compromised, but the owner may not realise that their dog has been barking if they\'re not around at that time.
+If you\'re concerned about a dog barking excessively near you, there are things you can do:
+Speak to the owner. They may not be aware that there\'s an issue, or they may be using some of the advice above to try and resolve the issue.
+If speaking to your neighbour hasn\'t worked or isn\'t an option, try contacting your local council about the noise complaint. This can help resolve the underlying issue, or if there is a welfare complaint they will contact us.
+Contact your local council about a barking dog.</string>
+    <string name="label_feature">Feature</string>
+    <string name="label_dog_translate">Dog Translate</string>
+    <string name="label_share">Share</string>
+    <string name="label_default_device">Default device</string>
+    <string name="label_language">Language</string>
+    <string name="label_rate">Rate</string>
+    <string name="label_privacy_policy">Privacy policy</string>
+    <string name="sound_item_1">Hi</string>
+    <string name="sound_item_2">Wonder</string>
+    <string name="sound_item_3">Happy</string>
+    <string name="sound_item_4">Love</string>
+    <string name="sound_item_5">Happy Walk</string>
+    <string name="sound_item_6">Dance</string>
+    <string name="sound_item_7">Agree</string>
+    <string name="sound_item_8">Hand clap</string>
+    <string name="sound_item_9">Hi fence</string>
+    <string name="sound_item_10">Cry</string>
+    <string name="sound_item_11">Cry Lying</string>
+    <string name="sound_item_12">No!</string>
+    <string name="sound_item_13">Yes</string>
+    <string name="sound_item_14">Wow</string>
+    <string name="sound_item_15">Pet</string>
+    <string name="sound_item_16">Begging</string>
+    <string name="sound_item_17">Want Sleep</string>
+    <string name="sound_item_18">Yeah</string>
+    <string name="sound_item_19">Lie</string>
+    <string name="sound_item_20">Startle</string>
+    <string name="sound_item_21">Scratch</string>
+    <string name="sound_item_22">Sick</string>
+    <string name="sound_item_23">Exhausted</string>
+    <string name="sound_item_24">Scared</string>
+    <string name="sound_item_25">Angry</string>
+    <string name="sound_item_sad">Sad</string>
+    <string name="sound_item_26">Super Angry</string>
+    <string name="label_press_to_record_vocals">Press to record vocals</string>
+    <string name="label_translate_result">Translate result</string>
+    <string name="label_close">Close</string>
+    <string name="label_doing">What are you doing?</string>
+    <string name="label_hi">Hi, have a good day!</string>
+    <string name="label_happy">I’m happy that you came in to my life</string>
+    <string name="label_love">I feel I fall in love right now</string>
+    <string name="label_happy_walk">I’m glaf I’m going for a walk</string>
+    <string name="label_dance">I’m happy and I want to dance</string>
+    <string name="label_hand_clap">You so smart, my fence.</string>
+    <string name="label_hi_fence">I will jump over the fence</string>
+    <string name="label_sound_super_argry">Don’t touch this!</string>
+    <string name="label_sound_argry">I’m angry with my cat.</string>
+    <string name="label_sound_scare">Why you so angry...</string>
+    <string name="label_sound_cry">I lay and cried for 2 days :(</string>
+    <string name="label_sound_cry_lying">"Mmm... i don’t want play with you now :( "</string>
+    <string name="label_sound_yes">Yes!!!</string>
+    <string name="label_sound_wow">So surprise :0</string>
+    <string name="label_sound_pet">I love you so much, my fence</string>
+    <string name="label_sound_begging">I’m hungry, someone give me food!</string>
+    <string name="label_sound_want_sleep">Good night!</string>
+    <string name="label_sound_yeah">Yeah! I like that feeling!</string>
+    <string name="label_sound_lie">Haiz, don’t want to do anything.</string>
+    <string name="label_sound_startle">Hey! What happened!? D:</string>
+    <string name="label_sound_scratch">You scratch their back and they will scratch yours!</string>
+    <string name="label_sound_shy">I’ve been shy since i was a kid</string>
+    <string name="label_sound_exhausted">I’m so tired :(</string>
+    <string name="tab_timer">Timer</string>
+    <string name="tab_loop">Loop</string>
+    <string name="time_play">The sound will play in:</string>
+    <string name="languages">Languages</string>
+    <string name="splash_screen_title">This action may contain advertising</string>
+    <string name="menu_item_sound">Sounds</string>
+    <string name="menu_item_translator">Translator</string>
+    <string name="menu_item_training">Training</string>
+    <string name="menu_item_whistle">Whistle</string>
+    <string name="intro">Next</string>
+    <string name="language_en">English</string>
+    <string name="language_fr">French</string>
+    <string name="language_vi">Tiếng Việt</string>
+    <string name="let_me_recommend">Let me recommend you this application</string>
+    <string name="share_to">Share to</string>
+    <string name="Send">Send</string>
+    <string name="Oh_no">Oh, no!</string>
+    <string name="Please_leave_us_some_feedback">Please leave us some feedback</string>
+    <string name="rate">Rate</string>
+    <string name="We_like_you_too">We like you too!</string>
+    <string name="Thank_for_your_feedback">Thank for your feedback.</string>
+    <string name="We_are_working">We are working hard for a better user experience.</string>
+    <string name="We_greatly_appreciate">We’d greatly appreciate if you can rate us .</string>
+    <string name="Please_feedback">Please leave a comment</string>
+    <string name="The_best_we_can_get">The best we can get :)</string>
+    <string name="we_are_working_hard_for_a_better_user_experience">We are working hard for a better user experience.</string>
+    <string name="we_d_greatly_appreciate_if_you_can_rate_us">We’d greatly appreciate if you can rate us.</string>
+    <string name="Writing_something">Writing something…</string>
+    <string name="may_be_later">Maybe later</string>
+    <string name="language_es">Spain</string>
+    <string name="language_hi">Hindi</string>
+    <string name="language_pt">Portugal</string>
+</resources>

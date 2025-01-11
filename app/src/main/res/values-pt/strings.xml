@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tradutor de cães</string>
+    <string name="label_text_intro">COMUNICAR-SE COM\nSEU CÃO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Olá fragmento em branco</string>
+    <string name="training_food_title">Comida</string>
+    <string name="training_food_description">Os cães são onívoros e precisam de uma ampla gama de nutrientes para manter uma saúde ideal. Isso inclui o equilíbrio correto de proteínas, gorduras e óleos, carboidratos</string>
+    <string name="training_praise_title">Louvor</string>
+    <string name="training_praise_description">Você provavelmente pode pensar em cinco coisas que gostaria que seu cachorro parasse de fazer, como derrubar a lata de lixo ou pegar as calças do pijama de seu filho todas as manhãs.</string>
+    <string name="training_bitting_title">Batendo</string>
+    <string name="training_bitting_description">Na maioria das vezes, os cães mordem as pessoas quando se sentem ameaçados de alguma forma. É um instinto natural que ainda está presente em cães domesticados. É por isso que é importante para todos que interagem com um cachorro </string>
+    <string name="training_obdience_title">Obdiência</string>
+    <string name="training_obdience_description">Mesmo antes de trazer para casa um cão de um criador ou mesmo do abrigo de animais, é imperativo que você decida e estabeleça algumas regras básicas a serem observadas por todos os outros na casa quando o cão estiver já está lá. </string>
+    <string name="training_barking_title">Latindo</string>
+    <string name="training_barking_description">Cães latem por diversos motivos. Um cachorro pode latir para expressar como está se sentindo - por exemplo, quando está animado, frustrado, entediado ou com medo. Se um cachorro se sentir ameaçado, ele pode latir para dizer a alguém para ficar longe ou ir embora.</string>
+    <string name="activity_training_food_1_title">Como servir a comida</string>
+    <string name="activity_training_food_1_description">Os cães são onívoros e precisam de uma ampla variedade de nutrientes para manter uma saúde ideal. Isso inclui o equilíbrio correto de proteínas, gorduras e óleos, carboidratos, minerais e vitaminas. No Reino Unido, alimentos para animais de estimação são regidos por mais de 50 atos legislativos, e um alimento comercial completo para animais de estimação deve atender a quantidades mínimas de nutrientes específicos para cumpri-los. Isso significa que uma ração completa e de alta qualidade conterá o equilíbrio certo de tudo o que seu animal de estimação precisa de sua dieta.</string>
+    <string name="activity_training_food_2_title">Encontre um local ideal</string>
+    <string name="activity_training_food_2_description">Alimente seu cão em um local tranquilo, longe da agitação da casa. Sempre sirva a comida de cachorro em uma tigela limpa e coloque-a em uma superfície fácil de limpar, como um piso de ladrilho. Se você perceber que a tigela do seu cão está escorregando no chão, use uma tigela antiderrapante ou um tapete de borracha.
+Cães que devoram sua comida podem se beneficiar de tigelas especiais anti-engolir que incentivam uma alimentação mais lenta, enquanto cães mais velhos - ou comedores bagunçados - podem preferir um comedouro elevado.
+Se você tiver outros cães em casa, alimente-os ao mesmo tempo, mas separados um do outro, para evitar bullying e brigas.</string>
+    <string name="activity_training_food_3_title">Servir e armazenar alimentos</string>
+    <string name="activity_training_food_3_description">No que diz respeito à alimentação do cão, tente servir comida húmida (latas/banheiras/sacos) à temperatura ambiente, pois tem um cheiro mais atractivo e é mais fácil de digerir. Isso significa retirá-lo da geladeira cerca de uma hora antes da alimentação. É bom usar o micro-ondas por um curto período de tempo para aquecê-lo, mas certifique-se de que a comida nunca esteja quente.
+Alimentos úmidos envelhecem rapidamente, portanto, evite deixá-los fora. Depois de aberto, não guarde alimentos úmidos por mais de 24 horas, mesmo na geladeira.
+Alimentos secos, por outro lado, podem ser deixados de fora durante o dia sem estragar. Armazene-o em um ambiente limpo e seco, de preferência em um recipiente hermético ou em uma caixa que possa ser fechada novamente, para manter seus aromas e evitar que envelheça.
+A maioria dos cães gosta de mastigar a comida seca, mas se o seu animal de estimação preferir com um pouco de água, ou se houver uma razão médica para evitar alimentos duros, mergulhe a comida em água por até 30 minutos antes de servir. Os croquetes secos ajudam a remover a placa bacteriana, por isso, se adicionar água aos alimentos secos, poderá também complementar a sua alimentação com um tratamento dentário regular. Lembre-se de que a escovação regular é a melhor maneira de prevenir doenças dentárias caninas.</string>
+    <string name="activity_training_food_4_title">Alimentação e exercícios</string>
+    <string name="activity_training_food_4_description">Nunca exercite seu cão uma hora antes ou uma hora depois da alimentação. Cães de raças grandes e gigantes podem ser suscetíveis a inchaço do estômago e torção do intestino (uma condição chamada dilatação gástrica e vólvulo), que é uma emergência médica. Os sintomas incluem barriga inchada, ânsia de vômito e seu cão agindo como se estivesse muito desconfortável. Contacte o seu veterinário imediatamente se estiver preocupado com o seu cão.</string>
+    <string name="activity_training_praise_1_title">O poder do elogio: incentivando o bom comportamento em cães</string>
+    <string name="activity_training_praise_1_description">Você provavelmente pode pensar em cinco coisas que gostaria que seu cachorro parasse de fazer, como derrubar a lata de lixo ou pegar as calças do pijama de seu filho todas as manhãs. Ou talvez você possa pensar em cinco coisas que gostaria que seu cão fizesse melhor, como vir quando chamado ou andar na coleira. Você pode se pegar dizendo ao seu cão “pare” ou “não” com frequência, e há uma boa chance de ficar frustrado com o comportamento do seu cão. Mas você já parou para dar crédito ao seu cão pelas milhões de coisas que ele acerta todos os dias?
+Pense nisso. Os cães entram em nossas vidas sem conhecer nossa língua ou costumes. Eles precisam se adaptar ao nosso estilo de vida e controlar muitos dos comportamentos que são naturais para eles, como usar os dentes e a voz. Mantemos nossos cães em um alto padrão de comportamento, quer os ajudemos nessa transição cultural com treinamento, quer os deixemos descobrir por conta própria. É claro que os cães são excelentes observadores e, na maioria das vezes, conseguem se integrar perfeitamente em nossas vidas, quer os guiemos ou não.
+Infelizmente, somos rápidos em corrigir nossos cães quando eles cometem erros, o que significa que muitas vezes deixamos de reconhecer as muitas escolhas corretas que eles fazem enquanto navegam em nosso mundo. Isso deixa um vácuo de elogios. Os cães chamam a atenção de nós quando fazem a coisa errada, mas sua grandiosidade diária não é reconhecida. Mas, ao fazer uma pequena mudança em seu comportamento - reconhecendo aqueles muitos momentos fugazes de bem - você descobrirá que é mais provável que seu cão os repita e seu relacionamento começará a se transformar.</string>
+    <string name="activity_training_praise_2_title">Reconhecendo seu cão por bom comportamento</string>
+    <string name="activity_training_praise_2_description">É verdade para todos os seres, de humanos a animais, que o comportamento recompensado será repetido. As recompensas alimentares são um reforço quase universal no mundo canino, por isso são uma ótima maneira de obter e manter comportamentos. Dito isso, você não precisa se tornar um dispensador de guloseimas sem fundo para fazer com que seu cão repita os comportamentos diários que você aprecia. Simplesmente reconhecer seu cão com elogios verbais por boas decisões é uma maneira poderosa de incentivá-lo a manter o bom trabalho.
+Explorar suas habilidades diárias de elogio exige que você se torne um estudante do comportamento de seu cão, pois algumas das melhores coisas para elogiar podem ser passageiras. Depois de realinhar sua perspectiva e começar a observar comportamentos dignos de elogios, você começará a vê-los constantemente. (Nossos cães realmente são muito melhores do que pensamos.)
+Por exemplo, um dos requisitos mais básicos do status de “bom cachorro” é ir ao banheiro do lado de fora, então por que não elogiar seu cão por acertar todos os dias? Dizer ao seu cão "muito bem" quando ele faz o seu negócio é uma maneira simples de deixá-lo saber que você aprecia suas habilidades de treinamento doméstico. Agora, considere o resto do seu dia com seu cachorro - você consegue pensar em outras pequenas maneiras de ele acertar? Talvez ele se sente enquanto você prepara a comida dele, ou quando você prende a coleira, ou antes de jogar uma bola para ele. Todos esses são comportamentos louváveis.
+Reconhecer seu cão por bom comportamento é apenas uma parte do continuum de elogios. Reconhecer seu cão por tomar a decisão certa é uma maneira ainda mais poderosa de colocar o elogio em prática. Lembre-se, seu cão tem arbítrio pessoal e seus dias são preenchidos com milhares de cálculos em segundos sobre o que fazer a seguir. Por exemplo, quando seu vizinho arrasta a lata de lixo barulhenta pela entrada da garagem, seu cachorro precisa determinar se deve latir. Ou, se o seu gato resgatado decidir fazer uma aparição surpresa na sala da família, seu cão terá que decidir se vai persegui-lo. Ignorar o arrastador de lixo e desistir da perseguição ao gato são decisões que você certamente deseja que seu cão repita, então elogie de coração quando seu cão opta por fazer a coisa certa.
+Sim, elogiar a ausência de um comportamento “ruim”, como latir, perseguir, pular ou intimidar, pode ser tão importante quanto elogiar seu cão por ter um bom comportamento, como sentar, se acomodar ou ficar. O simples ato de usar sua voz para reforçar a escolha inteligente de seu cão ajudará a garantir que ele o faça novamente na próxima vez que se deparar com a mesma situação.
+Como você elogia é importante. Você não precisa exagerar ao elogiar seu cão, especialmente porque acabará elogiando seu cão com frequência ao longo do dia. Um simples “bom trabalho” ou “boa decisão!” e um tapinha e um sorriso ajudarão seu cão a entender que você aprecia o que ele fez. Claro, se o seu cachorro fizer algo incrível, como voltar para você em vez de perseguir um coelho no seu quintal, aumente o elogio para que ele saiba que fez algo excelente.
+Aumentar a quantidade de reconhecimento positivo que você dá ao seu cão diariamente transformará seu relacionamento. O feedback frequente ajuda seu cão a acertar a vida com mais frequência e o encoraja a continuar tentando fazer a coisa certa. As guloseimas sempre serão um reforçador primário poderoso para a maioria dos cães, mas o poder do feedback positivo de um ser humano amado vem logo atrás.</string>
+    <string name="activity_training_bitting_1_title">Por que os cães mordem?</string>
+    <string name="activity_training_bitting_1_description">Na maioria das vezes, os cães mordem as pessoas quando se sentem ameaçados de alguma forma. É um instinto natural que ainda está presente nos cães domesticados. Por isso é importante que todos que interagem com um cachorro entendam o que pode provocar esse comportamento agressivo.
+Um cão pode morder para defender a si mesmo, seu território ou um membro de sua matilha. Uma mãe cadela também protege ferozmente seus filhotes.
+Assustar um cão ao acordá-lo ou abordá-lo repentinamente por trás pode provocá-lo a morder.
+Fugir de um cachorro, mesmo durante uma brincadeira, também pode provocar uma mordida. O cão pode pensar que faz parte da diversão, ou fugir pode desencadear comportamento de pastoreio ou perseguição predatória em algumas raças.
+Um cachorro que está em uma situação de medo pode morder qualquer um que se aproxime dele. Tal situação pode ser algo tão grave como ser abusado ou abandonado na beira da estrada, ou pode ser algo que você percebe como comum, como um barulho alto.
+Lesões e doenças também são motivos comuns. Se um cachorro não está se sentindo bem ou está com dor, pode nem querer ser abordado ou tocado por suas pessoas favoritas.</string>
+    <string name="activity_training_bitting_2_title">Como acabar com mordidas de cachorro</string>
+    <string name="activity_training_bitting_2_description">Como dono de um cão, você deve assumir a responsabilidade de treinar seu cão e mantê-lo sob controle o tempo todo. Você é responsável pelo comportamento do seu cão e é a primeira linha de defesa na prevenção de mordidas de cachorro. É importante que você faça o possível para manter os outros seguros e evitar que seu cão morda:
+Coloque seu cão em um treinamento básico, no mínimo, e continue a manter o programa de treinamento de seu cão ao longo de sua vida para reforçar as lições que você ensinou.
+Socialize seu cão. Permita que seu cão conheça e interaja com diferentes tipos de pessoas, incluindo crianças, pessoas com deficiência e idosos em circunstâncias calmas e positivas.
+Exponha seu cão regularmente a uma variedade de situações, como outros cães, barulhos altos, máquinas grandes, bicicletas ou qualquer outra coisa que possa causar medo. Comece este treino com o seu cão o mais jovem possível e mantenha as experiências positivas.
+Preste atenção ao seu cão e saiba quando as coisas podem estar levando à agressão. Se você não consegue controlar a situação ou o comportamento do seu cão, pode ser necessário removê-lo antes que as coisas saiam do controle.
+Não discipline seu cão usando punição física, violenta ou agressiva. Opte pelo reforço positivo – elogios e guloseimas – antes de recorrer ao uso de aversivos, como coleiras de choque e ruídos altos, para disciplinar comportamentos indesejáveis. Recompensar consistentemente seu cão pelo comportamento desejável é muito mais eficaz porque os cães visam agradar seu povo.
+Sempre mantenha seu cão na coleira ou em uma área cercada. Conheça bem o seu cão antes de soltá-lo da coleira em áreas permitidas. Mantenha seu cão à vista o tempo todo.
+Se você suspeitar ou souber que seu cão tem tendências medrosas ou agressivas, sempre avise os outros. Não permita que seu cão se aproxime de pessoas e outros animais, a menos que a situação esteja estritamente controlada. Use uma focinheira, se necessário.
+Mantenha as vacinas do seu cão atualizadas, especialmente a vacinação contra a raiva, e visite o veterinário regularmente para exames de saúde.</string>
+    <string name="activity_training_bitting_3_title">Como interagir com segurança com um cachorro</string>
+    <string name="activity_training_bitting_3_description">Cães são fofos e muitas vezes amigáveis, então é fácil ficar animado quando você vê um. No entanto, um cão pode rapidamente se voltar contra alguém que não conhece.
+Mesmo que você não tenha um cachorro, é importante para você e outras pessoas em sua esfera, incluindo crianças, saber como interagir com cães e como e quando abordar um.
+Nunca tente se aproximar ou tocar em um cão desconhecido sem primeiro pedir a permissão do dono. Se o dono do cachorro não estiver presente, não se aproxime dele.
+Nunca se aproxime de um cachorro que esteja comendo, dormindo ou cuidando de filhotes. Os cães nessas situações são mais propensos a serem protetores e se assustam facilmente.
+Não se aproxime, toque ou tente mover um cão ferido. Em vez disso, entre em contato com um profissional veterinário ou controle de animais para obter assistência.
+Nunca deixe uma criança pequena ou um bebê sozinho com qualquer cachorro por qualquer motivo.
+Quando você encontrar um cachorro desconhecido, permita que o cachorro venha até você. Agache-se ou vire para o lado. Deixe-o cheirar sua mão antes de acariciá-lo.
+Não coloque seu rosto perto de um cachorro desconhecido; isso inclui "abraços e beijos".
+Se você for encurralado por um cachorro, fique parado e evite contato visual. Nunca corra ou grite. Quando o cachorro parar de prestar atenção em você, afaste-se lentamente.
+Se você for derrubado por um cachorro, caia de lado em posição fetal e cubra a cabeça e o rosto. Permaneça muito quieto e calmo.</string>
+    <string name="activity_training_bitting_4_title">Se seu cachorro morder alguém</string>
+    <string name="activity_training_bitting_4_description">Se seu cachorro morder uma pessoa, é importante agir rapidamente. Primeiro, confine o cachorro e depois socorra imediatamente a vítima. A vítima deve lavar bem a picada com sabão e água morna, se possível, e depois procurar atendimento médico imediato.</string>
+    <string name="activity_training_obdience_1_title">Estabeleça regras da casa que todos na casa possam aderir</string>
+    <string name="activity_training_obdience_1_description">Mesmo antes de trazer para casa um cão de um criador ou mesmo do abrigo de animais, é imperativo que você decida e estabeleça algumas regras básicas a serem observadas por todos os outros em casa quando o cão é já está lá. A ideia é garantir que o animal de estimação não receba comandos ou \'regras\' conflitantes. Por exemplo, se você acha que seu cachorro não deve subir no sofá, mas outro membro da família acha que está tudo bem, isso vai confundir o cachorro quanto a quem entre vocês ele vai obedecer. Naturalmente, obedecerá a quem lhe der tal indulgência.
+     Dito isto, reúna todos ao redor e tente discutir algumas das coisas sobre as quais todos terão que ser consistentes quando o cachorro já estiver em casa. Isso pode incluir a área onde o cão dormirá, comerá e fará suas necessidades e se será permitido entrar no quarto ou não. Você também pode querer estabelecer regras básicas para as sobras da mesa, bem como para os lanches, pois o rosto triste de um cachorro pode realmente partir o coração das crianças. Novamente, se você deseja que seu cão seja mais obediente, deve começar com regras consistentes em sua casa.</string>
+    <string name="activity_training_obdience_2_title">Escolha o nome do seu cachorrinho e aguarde</string>
+    <string name="activity_training_obdience_2_description">Além da consistência nas regras da casa, você também terá que ser consistente em seu nome. Por exemplo, se você decidiu chamar seu cachorro de “Spot”, todos os outros membros da família terão que chamá-lo assim. Não deve haver assobios ou o uso de qualquer outro som para chamá-lo. A ideia é que o cão entenda que o som “Spot” se refere a ele e que não pode ser chamado por outro nome. Imagine se outra pessoa estiver assobiando para o seu cachorro, se ele estiver devidamente treinado para responder apenas ao chamado ou ao som de seu nome, ele ignorará o apito. Apenas lembre-se de dar reforço positivo ao seu cão toda vez que ele responder ao chamado de seu nome.</string>
+    <string name="activity_training_obdience_3_title">Treine seu cão em casa</string>
+    <string name="activity_training_obdience_3_description">Todos os filhotes devem passar por treinamento doméstico. Se você trouxe um cachorro adulto para sua casa, também terá que treiná-lo; embora isso exija mais paciência e maior perseverança de sua parte. O importante é que cachorros e cachorros aprendam quando e onde comer, dormir, beber, urinar e defecar. Mais uma vez, a perseverança é a chave e os esforços consistentes de todos em sua casa podem definitivamente ajudar. Por exemplo, se você designou um determinado local na cozinha para alimentar seu cachorro, certifique-se de que todos os outros da família vão alimentá-lo na mesma área.</string>
+    <string name="activity_training_obdience_4_title">Ensine comandos e truques básicos ao seu cão</string>
+    <string name="activity_training_obdience_4_description">Você não precisa ensinar truques muito sofisticados ao seu cachorro. Tudo o que precisa aprender são os comandos básicos, como os comandos \'senta\', \'fica\', \'vem\' e \'desce\'. Você pode pensar que isso é muito fácil, mas para um cão associar essas dicas verbais a um comportamento aceitável ou desejável leva muito tempo e esforço para dominar. Se você não tem paciência para ver o adestramento do seu cão, quase sempre é certo que não conseguirá fazer com que o seu cão se torne mais obediente. Certifique-se de usar esses comandos básicos mesmo quando não estiver treinando, pois reforça fortemente sua compreensão do que significa sentar, descer, ficar e até vir. De qualquer forma, a repetição desses comandos em todos os aspectos imagináveis de sua existência os ajudará a se acostumar com sua voz e seus comandos.</string>
+    <string name="activity_training_obdience_5_title">Aprenda a usar guloseimas para reforço positivo e como isca</string>
+    <string name="activity_training_obdience_5_description">Sempre ouvimos os especialistas em comportamento canino falarem sobre reforço positivo sempre que treinamos ou ensinamos cães. A razão é bastante simples. Ensine-os a associar um comportamento desejável com algo realmente prazeroso para que eles sejam mais do que seduzidos a continuar fazendo o mesmo comportamento repetidamente. A chave, portanto, está em identificar aquilo que lhes trará prazer. Ainda bem que cachorros não são tão difíceis de agradar. Brincar com eles, acariciá-los e até abraçá-los são excelentes maneiras de mostrar ao seu cão que você o ama. No entanto, um truque que nunca falha quando se trata de reforço positivo é dar a eles suas guloseimas favoritas. A chave é aprender quando dar o petisco para que ele associe com o que acabou de fazer. Tecnicamente, é tudo uma questão de tempo.</string>
+    <string name="activity_training_obdience_6_title">Mantenha as sessões de treinamento de obediência relativamente curtas</string>
+    <string name="activity_training_obdience_6_description">Uma das coisas mais difíceis de dominar quando se trata de treinamento de obediência canina é saber quando parar o treinamento. O que geralmente funciona com uma pessoa não significa necessariamente que deva funcionar com outra. O maior obstáculo para um treinamento de obediência eficaz é o tempo de atenção do cão. Filhotes, como crianças, têm um período de atenção relativamente curto. Se você não estiver atento ao tempo que gasta treinando-os, há uma forte tendência de que eles se sintam entediados e simplesmente percam o interesse no que você está ensinando. Embora os especialistas recomendem manter as sessões de treinamento dentro de 10 a 15 minutos, também há aqueles que dizem para seguir o exemplo do seu cão. Se no caso de nenhuma quantidade de redirecionamento ou correção tirar seu cão do desinteresse, você pode querer parar por aí e retomar no dia seguinte. Não se esqueça de dar um reforço positivo, no entanto.</string>
+    <string name="activity_training_barking_1_title">Cães latindo - o que posso fazer?</string>
+    <string name="activity_training_barking_1_description">Cães latem por diversos motivos. Um cachorro pode latir para expressar como está se sentindo - por exemplo, quando está animado, frustrado, entediado ou com medo. Se um cão se sentir ameaçado, ele pode latir para dizer a alguém para ficar longe ou ir embora.
+Outras vezes, os cães podem latir porque querem algo em particular, como seu brinquedo favorito. Os cães também podem latir quando estão em perigo - por exemplo - quando são deixados sozinhos.
+Latir é uma forma de comunicação e é um comportamento canino completamente normal. No entanto, se a quantidade de latidos do seu cão aumentar ou se tornar excessiva, pode ser um sinal de que algo não está bem e também pode causar problemas para outras pessoas.
+Se isso acontecer, é importante resolver quaisquer problemas subjacentes que possam estar fazendo com que seu cão latir mais.
+Dito isto, reúna todos ao redor e tente discutir algumas das coisas sobre as quais todos terão que ser consistentes quando o cachorro já estiver em casa. Isso pode incluir a área onde o cão dormirá, comerá e fará suas necessidades e se será permitido entrar no quarto ou não. Você também pode querer estabelecer regras básicas para as sobras da mesa, bem como para os lanches, pois o rosto triste de um cachorro pode realmente partir o coração das crianças. Novamente, se você deseja que seu cão seja mais obediente, deve começar com regras consistentes em sua casa.</string>
+    <string name="activity_training_barking_2_title">Meu cachorro começou a latir muito mais do que o normal</string>
+    <string name="activity_training_barking_2_description">Se o seu cão está latindo excessivamente ou mais do que o normal, pode haver um problema de saúde subjacente - por exemplo, qualquer problema com a audição do seu cão pode estar causando o latido. Se você suspeitar que a audição do seu cão está prejudicada ou que pode haver algo errado, sempre fale com seu veterinário.</string>
+    <string name="activity_training_barking_3_title">Meu cachorro late quando fica sozinho</string>
+    <string name="activity_training_barking_3_description">Se o seu cachorro está latindo quando você não está por perto, ele pode estar sofrendo quando você não está presente. A ansiedade relacionada à separação pode se manifestar de várias maneiras, incluindo latidos. A boa notícia é que há coisas que você pode fazer para ajudar e determinar qual pode ser a causa do latido.</string>
+    <string name="activity_training_barking_4_title">Meu cachorro late para visitantes ou transeuntes</string>
+    <string name="activity_training_barking_4_description">Alguns cães latem para as pessoas que passam por sua casa ou jardim. Você pode tentar impedir que seu cão veja alguém passando pela casa, reduzindo o acesso a janelas ou jardins.
+É uma boa ideia ter guloseimas saborosas e brinquedos emocionantes à mão - você pode usá-los para distrair - idealmente, isso aconteceria antes que eles começassem a latir ou ao interromper seu comportamento com uma guloseima quando eles vierem até você.</string>
+    <string name="activity_training_barking_5_title">Como reduzir o latido excessivo</string>
+    <string name="activity_training_barking_5_description">Evite o tédio - os cães são animais inteligentes, ativos e sociáveis, por isso precisam de muito exercício, coisas para fazer e companhia para mantê-los felizes e saudáveis. Se o seu cachorro estiver entediado, ele pode passar mais tempo latindo.
+Certifique-se de que seu cão tenha o suficiente para fazer todos os dias para evitar que fique entediado.
+Estabeleça uma boa rotina - seu cão pode estar latindo para comunicar que quer brincar, quer comida ou precisa de atenção. Certifique-se de ter uma rotina diária para o seu cão, que inclua horários de refeição, brincadeiras e exercícios, aproximadamente no mesmo horário todos os dias. Uma boa rotina pode ajudar seu cão a saber o que e quando as atividades vão acontecer e pode ajudar a impedi-lo de latir para atividades em outros momentos!
+Os cachorros latem por diversos motivos e por isso é necessário descobrir qual é a causa. Pedir conselhos a um especialista pode ajudá-lo a entender o que está causando o comportamento e eles também poderão indicar a direção certa para obter ajuda.
+Para obter orientação especializada, entre em contato com um especialista em comportamento animal que poderá elaborar um plano de tratamento para você e seu cão.</string>
+    <string name="activity_training_barking_6_title">Relatando um cachorro latindo</string>
+    <string name="activity_training_barking_6_description">O latido ocasional ou \'woof\' geralmente não é um problema para os vizinhos e outras pessoas na comunidade, mas quando o latido se torna perturbador, muitas vezes é considerado inaceitável e desagradável para muitas pessoas. O bem-estar do cão também pode ser comprometido, mas o dono pode não perceber que seu cachorro está latindo se ele não estiver por perto naquele momento.
+Se você está preocupado com um cachorro latindo excessivamente perto de você, há algumas coisas que você pode fazer:
+Fale com o proprietário. Eles podem não estar cientes de que há um problema ou podem estar usando alguns dos conselhos acima para tentar resolver o problema.
+Se falar com seu vizinho não funcionou ou não é uma opção, tente entrar em contato com o conselho local sobre a reclamação de ruído. Isso pode ajudar a resolver o problema subjacente ou, se houver uma reclamação do bem-estar, eles entrarão em contato conosco.
+Entre em contato com o conselho local sobre um cachorro latindo.</string>
+    <string name="label_feature">Recurso</string>
+    <string name="label_dog_translate">Tradução de cães</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="label_default_device">Dispositivo padrão</string>
+    <string name="label_language">Idioma</string>
+    <string name="label_rate">Taxa</string>
+    <string name="label_privacy_policy">Política de privacidade</string>
+    <string name="sound_item_1">Oi</string>
+    <string name="sound_item_2">Maravilha</string>
+    <string name="sound_item_3">Feliz</string>
+    <string name="sound_item_4">Amor</string>
+    <string name="sound_item_5">Boa caminhada</string>
+    <string name="sound_item_6">Dança</string>
+    <string name="sound_item_7">Concordo</string>
+    <string name="sound_item_8">Batida de palmas</string>
+    <string name="sound_item_9">Oi cerca</string>
+    <string name="sound_item_10">Chorar</string>
+    <string name="sound_item_11">Chorar mentindo</string>
+    <string name="sound_item_12">Não!</string>
+    <string name="sound_item_13">Sim</string>
+    <string name="sound_item_14">Uau</string>
+    <string name="sound_item_15">Animal de estimação</string>
+    <string name="sound_item_16">Implorando</string>
+    <string name="sound_item_17">Quer dormir</string>
+    <string name="sound_item_18">Sim</string>
+    <string name="sound_item_19">Mentira</string>
+    <string name="sound_item_20">Sonho</string>
+    <string name="sound_item_21">Arranhões</string>
+    <string name="sound_item_22">Tímido</string>
+    <string name="sound_item_23">Exausto</string>
+    <string name="sound_item_24">Assustado</string>
+    <string name="sound_item_25">Irritado</string>
+    <string name="sound_item_26">Super Irritado</string>
+    <string name="sound_item_sad">Sad</string>
+    <string name="label_press_to_record_vocals">Pressione para gravar vocais</string>
+    <string name="label_translate_result">Traduzir resultado</string>
+    <string name="label_close">Fechar</string>
+    <string name="label_doing">O que você está fazendo?</string>
+    <string name="label_hi">Oi, tenha um bom dia!</string>
+    <string name="label_happy">Estou feliz por você ter entrado na minha vida</string>
+    <string name="label_love">Sinto que estou me apaixonando agora</string>
+    <string name="label_happy_walk">Que bom que vou dar um passeio</string>
+    <string name="label_dance">Estou feliz e quero dançar</string>
+    <string name="label_hand_clap">Você é tão inteligente, minha cerca.</string>
+    <string name="label_hi_fence">Vou pular a cerca</string>
+    <string name="label_sound_super_argry">Não toque nisso!</string>
+    <string name="label_sound_argry">Estou com raiva do meu gato.</string>
+    <string name="label_sound_scare">Por que você está com tanta raiva...</string>
+    <string name="label_sound_cry">Fiquei deitado e chorei por 2 dias :(</string>
+    <string name="label_sound_cry_lying">"Mmm... não quero brincar com você agora :( "</string>
+    <string name="label_sound_yes">Sim!!!</string>
+    <string name="label_sound_wow">Que surpresa :0</string>
+    <string name="label_sound_pet">Eu te amo muito, minha cerca</string>
+    <string name="label_sound_begging">Estou com fome, alguém me dê comida!</string>
+    <string name="label_sound_want_sleep">Boa noite!</string>
+    <string name="label_sound_yeah">Sim! Eu gosto dessa sensação!</string>
+    <string name="label_sound_lie">Haiz, não quero fazer nada.</string>
+    <string name="label_sound_startle">Ei! O que aconteceu!? D:</string>
+    <string name="label_sound_scratch">Você coça as costas deles e eles coçam as suas!</string>
+    <string name="label_sound_shy">Sou tímido desde criança</string>
+    <string name="label_sound_exhausted">Estou tão cansado :(</string>
+    <string name="tab_timer">Temporizador</string>
+    <string name="tab_loop">Loop</string>
+    <string name="time_play">O som será reproduzido em:</string>
+    <string name="languages">Idiomas</string>
+    <string name="splash_screen_title">Esta ação pode conter publicidade</string>
+    <string name="menu_item_sound">Sons</string>
+    <string name="menu_item_translator">Tradutor</string>
+    <string name="menu_item_training">Treinamento</string>
+    <string name="menu_item_whistle">Apito</string>
+    <string name="intro">Avançar</string>
+    <string name="language_en">Inglês</string>
+    <string name="language_fr">Francês</string>
+    <string name="let_me_recommend">Deixe-me recomendar a você este aplicativo</string>
+    <string name="share_to">Compartilhar com</string>
+    <string name="Send">Enviar</string>
+    <string name="Oh_no">Ah, não!</string>
+    <string name="Please_leave_us_some_feedback">Por favor, deixe-nos algum feedback</string>
+    <string name="rate">Taxa</string>
+    <string name="We_like_you_too">Também gostamos de você!</string>
+    <string name="Thank_for_your_feedback">Obrigado pelo seu feedback.</string>
+    <string name="We_are_working">Estamos trabalhando duro para uma melhor experiência do usuário.</string>
+    <string name="We_greatly_appreciate">Agradeceríamos muito se você pudesse nos avaliar.</string>
+    <string name="Please_feedback">Por favor, deixe um comentário</string>
+    <string name="The_best_we_can_get">O melhor que podemos obter</string>
+    <string name="we_are_working_hard_for_a_better_user_experience">Estamos trabalhando muito para uma melhor experiência do usuário.</string>
+    <string name="we_d_greatly_appreciate_if_you_can_rate_us">Agradeceríamos muito se você pudesse nos avaliar.</string>
+    <string name="Writing_something">Escrevendo algo…</string>
+    <string name="may_be_later">Talvez mais tarde</string>
+    <string name="language_es">Espanha</string>
+    <string name="language_hi">Hindi</string>
+    <string name="language_vi">Tiếng Việt</string>
+    <string name="language_pt">Portugal</string>
+</resources>
